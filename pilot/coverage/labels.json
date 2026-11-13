@@ -1,0 +1,2283 @@
+{
+ "final": {
+  "C1": {
+   "id": "C1",
+   "cat": "A",
+   "field": "F15",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C2": {
+   "id": "C2",
+   "cat": "C",
+   "concept": "база портфеля (доля без порога)",
+   "reason": "«База» — доля облигаций без порога: >50% или крупнейший класс — прочтения расходятся на реальном портфеле. «С оглядкой» — оговорка без своего правила.",
+   "src": "adjudicated"
+  },
+  "C3": {
+   "id": "C3",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C4": {
+   "id": "C4",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C5": {
+   "id": "C5",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C6": {
+   "id": "C6",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C7": {
+   "id": "C7",
+   "cat": "B",
+   "predicate": "агрегация по эмитенту: диапазон 3–15% облигационной части, верхняя граница зависит от рейтинга и типа эмитента",
+   "compound": false,
+   "src": "agree"
+  },
+  "C8": {
+   "id": "C8",
+   "cat": "B",
+   "predicate": "агрегация по эмитенту: число эмитентов в портфеле не более ~40",
+   "compound": false,
+   "src": "agree"
+  },
+  "C9": {
+   "id": "C9",
+   "cat": "C",
+   "concept": "низкий кредитный рейтинг",
+   "compound": true,
+   "src": "agree"
+  },
+  "C10": {
+   "id": "C10",
+   "cat": "B",
+   "predicate": "условие: рейтинг агентств A и ниже → срок до погашения не более 1 года",
+   "compound": false,
+   "src": "agree"
+  },
+  "C11": {
+   "id": "C11",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C12": {
+   "id": "C12",
+   "cat": "E",
+   "reason": "Предписание держать линкеры и флоатеры — что СДЕЛАТЬ, а не запрет; F8 флоатеры только запрещает. Конкретная обязанность по составу портфеля, не философия.",
+   "src": "adjudicated"
+  },
+  "C13": {
+   "id": "C13",
+   "cat": "B",
+   "predicate": "окно больше дня: изменение доли класса активов за год не более 2% портфеля",
+   "compound": false,
+   "src": "agree"
+  },
+  "C14": {
+   "id": "C14",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C15": {
+   "id": "C15",
+   "cat": "B",
+   "predicate": "агрегация по пользовательской группе (сателлит) не более 10% портфеля",
+   "compound": false,
+   "src": "agree"
+  },
+  "C16": {
+   "id": "C16",
+   "cat": "B",
+   "predicate": "абсолютный лимит стоимости позиции, ₽",
+   "reason": "Абсолютный кап позиции в рублях: F4 — доля в %, дрейфует с капиталом; F3 — одна заявка, доборы её обходят. Нужна проверка «позиция + заявка ≤ 50 тыс.».",
+   "src": "adjudicated"
+  },
+  "C17": {
+   "id": "C17",
+   "cat": "B",
+   "predicate": "окно больше дня: число изменений портфеля за год не более 5–6",
+   "compound": false,
+   "src": "agree"
+  },
+  "C18": {
+   "id": "C18",
+   "cat": "B",
+   "predicate": "относительный порог: изменение доли инструмента за одно изменение не более 0,5% портфеля",
+   "compound": false,
+   "src": "agree"
+  },
+  "C19": {
+   "id": "C19",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C20": {
+   "id": "C20",
+   "cat": "A",
+   "field": "F6",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C21": {
+   "id": "C21",
+   "cat": "A",
+   "field": "F4",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C22": {
+   "id": "C22",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C23": {
+   "id": "C23",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C24": {
+   "id": "C24",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C25": {
+   "id": "C25",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C26": {
+   "id": "C26",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C27": {
+   "id": "C27",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C28": {
+   "id": "C28",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C29": {
+   "id": "C29",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C30": {
+   "id": "C30",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C31": {
+   "id": "C31",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C32": {
+   "id": "C32",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C33": {
+   "id": "C33",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C34": {
+   "id": "C34",
+   "cat": "A",
+   "field": "F15",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C35": {
+   "id": "C35",
+   "cat": "A",
+   "field": "F15",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C36": {
+   "id": "C36",
+   "cat": "A",
+   "field": "F15",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C37": {
+   "id": "C37",
+   "cat": "B",
+   "predicate": "целевая доля класса активов вне набора F15 (золото) 10%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C38": {
+   "id": "C38",
+   "cat": "B",
+   "predicate": "кредитный рейтинг агентств не ниже BB+; диверсификация по выпускам",
+   "compound": true,
+   "src": "agree"
+  },
+  "C39": {
+   "id": "C39",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C40": {
+   "id": "C40",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C41": {
+   "id": "C41",
+   "cat": "B",
+   "predicate": "условие по истории владения: новый инструмент не более 1% средств",
+   "compound": false,
+   "src": "agree"
+  },
+  "C42": {
+   "id": "C42",
+   "cat": "B",
+   "predicate": "срок владения: запрет наращивания новой позиции ранее чем через 1 год",
+   "compound": false,
+   "src": "agree"
+  },
+  "C43": {
+   "id": "C43",
+   "cat": "B",
+   "predicate": "относительный порог: шаг наращивания позиции не более 1% портфеля",
+   "compound": false,
+   "src": "agree"
+  },
+  "C44": {
+   "id": "C44",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C45": {
+   "id": "C45",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C46": {
+   "id": "C46",
+   "cat": "A",
+   "field": "F6",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C47": {
+   "id": "C47",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C48": {
+   "id": "C48",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C49": {
+   "id": "C49",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C50": {
+   "id": "C50",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C51": {
+   "id": "C51",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C52": {
+   "id": "C52",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C53": {
+   "id": "C53",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C54": {
+   "id": "C54",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C55": {
+   "id": "C55",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C56": {
+   "id": "C56",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C57": {
+   "id": "C57",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C58": {
+   "id": "C58",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C59": {
+   "id": "C59",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C60": {
+   "id": "C60",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C61": {
+   "id": "C61",
+   "cat": "B",
+   "predicate": "агрегация доли по эмитенту",
+   "reason": "Явно «эмитент», а не бумага: сумма по всем бумагам эмитента (обычка, преф, выпуски облигаций). F4 считает одну бумагу — это агрегация по эмитенту из B.",
+   "src": "adjudicated"
+  },
+  "C62": {
+   "id": "C62",
+   "cat": "A",
+   "field": "F6",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C63": {
+   "id": "C63",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C64": {
+   "id": "C64",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C65": {
+   "id": "C65",
+   "cat": "A",
+   "field": "F4",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C66": {
+   "id": "C66",
+   "cat": "A",
+   "field": "F5",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C67": {
+   "id": "C67",
+   "cat": "A",
+   "field": "F6",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C68": {
+   "id": "C68",
+   "cat": "B",
+   "predicate": "исключение из лимитов долей для денежного рынка",
+   "reason": "Разрешение, а не лимит: смысл — снять для денежного рынка (фонды ДР, РЕПО) прочие лимиты долей. Класса «денежный рынок» в F15 нет, исключений форма не знает.",
+   "src": "adjudicated"
+  },
+  "C69": {
+   "id": "C69",
+   "cat": "A",
+   "field": "F4",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C70": {
+   "id": "C70",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C71": {
+   "id": "C71",
+   "cat": "B",
+   "predicate": "производная метрика портфеля: доходность за расчётный период больше 2%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C72": {
+   "id": "C72",
+   "cat": "A",
+   "field": "F6",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C73": {
+   "id": "C73",
+   "cat": "A",
+   "field": "F15",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C74": {
+   "id": "C74",
+   "cat": "A",
+   "field": "F15",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C75": {
+   "id": "C75",
+   "cat": "C",
+   "concept": "дивидендные акции",
+   "compound": false,
+   "src": "agree"
+  },
+  "C76": {
+   "id": "C76",
+   "cat": "C",
+   "concept": "понятный бизнес",
+   "compound": true,
+   "src": "agree"
+  },
+  "C77": {
+   "id": "C77",
+   "cat": "C",
+   "concept": "эмитенты, в которых уверен / вызывающие сомнения",
+   "compound": false,
+   "src": "agree"
+  },
+  "C78": {
+   "id": "C78",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C79": {
+   "id": "C79",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C80": {
+   "id": "C80",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C81": {
+   "id": "C81",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C82": {
+   "id": "C82",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C83": {
+   "id": "C83",
+   "cat": "C",
+   "concept": "незначительная часть капитала",
+   "reason": "Кап доли крипты, но «незначительная» без порога: 1%, 5% или 10% дадут разные решения на реальном портфеле. Ограничение структуры, не поведение — C, не D.",
+   "src": "adjudicated"
+  },
+  "C84": {
+   "id": "C84",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C85": {
+   "id": "C85",
+   "cat": "A",
+   "field": "F15",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C86": {
+   "id": "C86",
+   "cat": "C",
+   "concept": "дивидендные акции",
+   "compound": false,
+   "src": "agree"
+  },
+  "C87": {
+   "id": "C87",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C88": {
+   "id": "C88",
+   "cat": "C",
+   "concept": "длинные ОФЗ",
+   "reason": "Доля подкласса и купон ≈12% — это B, но «длинные» без порога (>5, >7 или >10 лет) по-разному делят реальные выпуски ОФЗ. Самая трудная часть — C.",
+   "src": "adjudicated"
+  },
+  "C89": {
+   "id": "C89",
+   "cat": "C",
+   "concept": "короткие облигации",
+   "reason": "Доля подкласса — B, но «короткие» без порога (<1 или <3 лет, погашение или оферта), «муниципальные» — с субфедеральными или без. Прочтения расходятся — C.",
+   "src": "adjudicated"
+  },
+  "C90": {
+   "id": "C90",
+   "cat": "C",
+   "concept": "мусорные облигации",
+   "compound": true,
+   "src": "agree"
+  },
+  "C91": {
+   "id": "C91",
+   "cat": "C",
+   "concept": "мусор (низкий рейтинг без порога)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C92": {
+   "id": "C92",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C93": {
+   "id": "C93",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C94": {
+   "id": "C94",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C95": {
+   "id": "C95",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C96": {
+   "id": "C96",
+   "cat": "B",
+   "predicate": "срок продукта (вклада) ≤ 6 мес — атрибут вне справочника брокера",
+   "compound": false,
+   "src": "agree"
+  },
+  "C97": {
+   "id": "C97",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C98": {
+   "id": "C98",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C99": {
+   "id": "C99",
+   "cat": "B",
+   "predicate": "источник заявки/подписка: запрет заявок и подключения стратегии автоследования",
+   "reason": "Бинарный запрет, проверяемый брокером по источнику заявки/подписке на стратегию; в F1–F15 поля нет. Не D: это не поведение, а проверяемое условие.",
+   "src": "adjudicated"
+  },
+  "C100": {
+   "id": "C100",
+   "cat": "C",
+   "concept": "хайповые бумаги",
+   "compound": false,
+   "src": "agree"
+  },
+  "C101": {
+   "id": "C101",
+   "cat": "B",
+   "predicate": "доля класса активов вне формы (криптовалюта) 1–5% от совокупных активов",
+   "compound": false,
+   "src": "agree"
+  },
+  "C102": {
+   "id": "C102",
+   "cat": "B",
+   "predicate": "белый список активов вне справочника брокера (BTC, ETH, стейблкоины)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C103": {
+   "id": "C103",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C104": {
+   "id": "C104",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C105": {
+   "id": "C105",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C106": {
+   "id": "C106",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C107": {
+   "id": "C107",
+   "cat": "B",
+   "predicate": "условие по состоянию портфеля (новый эмитент) → лимит заявки 1 лот",
+   "compound": false,
+   "src": "agree"
+  },
+  "C108": {
+   "id": "C108",
+   "cat": "B",
+   "predicate": "условие на корпоративное событие: рекомендация СД о дивидендах (российские эмитенты)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C109": {
+   "id": "C109",
+   "cat": "B",
+   "predicate": "тип заявки: запрет стоп-заявок",
+   "compound": false,
+   "src": "agree"
+  },
+  "C110": {
+   "id": "C110",
+   "cat": "A",
+   "field": "F6",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C111": {
+   "id": "C111",
+   "cat": "A",
+   "field": "F8",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C112": {
+   "id": "C112",
+   "cat": "B",
+   "predicate": "производная метрика: НКД вблизи минимума / дни после выплаты купона (порог не задан)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C113": {
+   "id": "C113",
+   "cat": "B",
+   "predicate": "атрибут из данных: наличие дивидендных выплат эмитента / выплат дохода фондом",
+   "compound": false,
+   "src": "agree"
+  },
+  "C114": {
+   "id": "C114",
+   "cat": "A",
+   "field": "F5",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C115": {
+   "id": "C115",
+   "cat": "C",
+   "concept": "цель покупки: «на замену» / «для трейдинга»",
+   "compound": false,
+   "src": "agree"
+  },
+  "C116": {
+   "id": "C116",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C117": {
+   "id": "C117",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C118": {
+   "id": "C118",
+   "cat": "B",
+   "predicate": "условие по состоянию портфеля: шорт только при наличии длинной позиции в той же бумаге",
+   "compound": false,
+   "src": "agree"
+  },
+  "C119": {
+   "id": "C119",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C120": {
+   "id": "C120",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C121": {
+   "id": "C121",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C122": {
+   "id": "C122",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C123": {
+   "id": "C123",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C124": {
+   "id": "C124",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C125": {
+   "id": "C125",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C126": {
+   "id": "C126",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C127": {
+   "id": "C127",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C128": {
+   "id": "C128",
+   "cat": "A",
+   "field": "F7",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C129": {
+   "id": "C129",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C130": {
+   "id": "C130",
+   "cat": "C",
+   "concept": "потенциал роста (целевая цена не определена)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C131": {
+   "id": "C131",
+   "cat": "C",
+   "concept": "потенциал падения («небольшой»)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C132": {
+   "id": "C132",
+   "cat": "B",
+   "predicate": "производная метрика из рыночных данных: годовая волатильность > 100%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C133": {
+   "id": "C133",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C134": {
+   "id": "C134",
+   "cat": "B",
+   "predicate": "производная метрика: цена относительно исторического максимума",
+   "compound": false,
+   "src": "agree"
+  },
+  "C135": {
+   "id": "C135",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C136": {
+   "id": "C136",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C137": {
+   "id": "C137",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C138": {
+   "id": "C138",
+   "cat": "C",
+   "concept": "движение уже произошло на верхних ярусах (перегретость)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C139": {
+   "id": "C139",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C140": {
+   "id": "C140",
+   "cat": "C",
+   "concept": "разворот цены наверх / падающая бумага",
+   "compound": false,
+   "src": "agree"
+  },
+  "C141": {
+   "id": "C141",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C142": {
+   "id": "C142",
+   "cat": "B",
+   "predicate": "атрибут эмитента (страна — РФ) с привязкой к конкретному счёту (ИИС)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C143": {
+   "id": "C143",
+   "cat": "B",
+   "predicate": "запрет неторговой операции: вывод средств с ИИС",
+   "compound": false,
+   "src": "agree"
+  },
+  "C144": {
+   "id": "C144",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C145": {
+   "id": "C145",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C146": {
+   "id": "C146",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C147": {
+   "id": "C147",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C148": {
+   "id": "C148",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C149": {
+   "id": "C149",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C150": {
+   "id": "C150",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C151": {
+   "id": "C151",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C152": {
+   "id": "C152",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C153": {
+   "id": "C153",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C154": {
+   "id": "C154",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C155": {
+   "id": "C155",
+   "cat": "C",
+   "concept": "«начальный этап» (граница не задана); база «ваши средства» вне счёта и неоднозначна",
+   "reason": "Порог 10% точен, но «начальный этап» без границы, а база «ваши средства» вне счёта и двусмысленна (счёт или все сбережения); прочтения расходятся.",
+   "src": "adjudicated"
+  },
+  "C156": {
+   "id": "C156",
+   "cat": "B",
+   "predicate": "число позиций в портфеле 10–15 (условие: вложения в онлайн-проекты)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C157": {
+   "id": "C157",
+   "cat": "B",
+   "predicate": "равенство сумм вложений между позициями",
+   "compound": false,
+   "src": "agree"
+  },
+  "C158": {
+   "id": "C158",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C159": {
+   "id": "C159",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C160": {
+   "id": "C160",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C161": {
+   "id": "C161",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C162": {
+   "id": "C162",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C163": {
+   "id": "C163",
+   "cat": "A",
+   "field": "F1",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C164": {
+   "id": "C164",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C165": {
+   "id": "C165",
+   "cat": "B",
+   "predicate": "оборот с порогом: среднедневной оборот ≥ 1 млн руб. + листинг на ММВБ",
+   "compound": true,
+   "src": "agree"
+  },
+  "C166": {
+   "id": "C166",
+   "cat": "A",
+   "field": "F15",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C167": {
+   "id": "C167",
+   "cat": "B",
+   "predicate": "доля класса активов вне F15 (срочный рынок) ≤ 30%; мера доли (ГО/номинал) требует определения",
+   "compound": false,
+   "src": "agree"
+  },
+  "C168": {
+   "id": "C168",
+   "cat": "B",
+   "predicate": "доля субпортфеля 33,3% от первоначального капитала (фиксированная историческая база), разметка субпортфелей",
+   "compound": false,
+   "src": "agree"
+  },
+  "C169": {
+   "id": "C169",
+   "cat": "D",
+   "reason": "Составной: 25% на бумагу = F4, но «диверсификация по отраслям» — принцип без порога и критерия (как «держу долго»); решаем по сложной части.",
+   "src": "adjudicated"
+  },
+  "C170": {
+   "id": "C170",
+   "cat": "B",
+   "predicate": "число бумаг в субпортфеле: 1–20",
+   "compound": false,
+   "src": "agree"
+  },
+  "C171": {
+   "id": "C171",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C172": {
+   "id": "C172",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C173": {
+   "id": "C173",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C174": {
+   "id": "C174",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C175": {
+   "id": "C175",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C176": {
+   "id": "C176",
+   "cat": "B",
+   "predicate": "риск позиции (убыток до стопа) < 3% капитала, только для спекулятивных позиций",
+   "compound": false,
+   "src": "agree"
+  },
+  "C177": {
+   "id": "C177",
+   "cat": "B",
+   "predicate": "агрегация по эмитенту + денежные лимиты позиции по группам эмитентов (пользовательская классификация)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C178": {
+   "id": "C178",
+   "cat": "B",
+   "predicate": "состояние портфеля: абсолютный лимит заёмных средств 3 млн руб.",
+   "compound": false,
+   "src": "agree"
+  },
+  "C179": {
+   "id": "C179",
+   "cat": "B",
+   "predicate": "относительный лимит плеча: заёмные/собственные ≤ 0,30",
+   "compound": false,
+   "src": "agree"
+  },
+  "C180": {
+   "id": "C180",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C181": {
+   "id": "C181",
+   "cat": "B",
+   "predicate": "условное разрешение плеча: просадка рыночного индекса на 10–30% от локального максимума",
+   "compound": false,
+   "src": "agree"
+  },
+  "C182": {
+   "id": "C182",
+   "cat": "B",
+   "predicate": "минимальный размер позиции (абсолютная сумма, выше 100 тыс. руб.)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C183": {
+   "id": "C183",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C184": {
+   "id": "C184",
+   "cat": "C",
+   "concept": "джанки (мусорные / высокодоходные облигации)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C185": {
+   "id": "C185",
+   "cat": "C",
+   "concept": "рискованные бумаги (джанки) с лимитом доли 10–20%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C186": {
+   "id": "C186",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C187": {
+   "id": "C187",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C188": {
+   "id": "C188",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C189": {
+   "id": "C189",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C190": {
+   "id": "C190",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C191": {
+   "id": "C191",
+   "cat": "C",
+   "concept": "слишком дорогие (переоценённые) бумаги",
+   "compound": false,
+   "src": "agree"
+  },
+  "C192": {
+   "id": "C192",
+   "cat": "B",
+   "predicate": "атрибут эмитента: иностранная страна (зарубежные акции)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C193": {
+   "id": "C193",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C194": {
+   "id": "C194",
+   "cat": "C",
+   "concept": "тренд (торговля против тренда)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C195": {
+   "id": "C195",
+   "cat": "C",
+   "concept": "хорошая цена покупки и сильные фундаментальные показатели",
+   "compound": false,
+   "src": "agree"
+  },
+  "C196": {
+   "id": "C196",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C197": {
+   "id": "C197",
+   "cat": "B",
+   "predicate": "агрегация по эмитенту: сумма всех его бумаг (выпуски облигаций, акции) ≤ 10% портфеля",
+   "reason": "Лимит УК на эмитента в облигационных фондах (ВДО): у эмитента обычно много выпусков, дефолт общий; F4 «на бумагу» пропустит 10%×N — нужна агрегация.",
+   "src": "adjudicated"
+  },
+  "C198": {
+   "id": "C198",
+   "cat": "A",
+   "field": "F2",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C199": {
+   "id": "C199",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C200": {
+   "id": "C200",
+   "cat": "B",
+   "predicate": "максимальное число компаний (позиций) в портфеле меньше 20",
+   "compound": false,
+   "src": "agree"
+  },
+  "C201": {
+   "id": "C201",
+   "cat": "B",
+   "predicate": "абсолютный лимит суммарных вложений в новую позицию £6667 (агрегация заявок); транш £2500 — F3",
+   "compound": true,
+   "src": "agree"
+  },
+  "C202": {
+   "id": "C202",
+   "cat": "B",
+   "predicate": "лимит докупки £2000 в уже полную позицию (состояние позиции + агрегация заявок)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C203": {
+   "id": "C203",
+   "cat": "B",
+   "predicate": "цена заявки не выше 1,15 × справедливая цена (оценка инвестора по бумаге)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C204": {
+   "id": "C204",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C205": {
+   "id": "C205",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C206": {
+   "id": "C206",
+   "cat": "B",
+   "predicate": "абсолютный лимит вложений в класс актива (крипто не более £1000)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C207": {
+   "id": "C207",
+   "cat": "A",
+   "field": "F1",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C208": {
+   "id": "C208",
+   "cat": "A",
+   "field": "F6",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C209": {
+   "id": "C209",
+   "cat": "A",
+   "field": "F1",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C210": {
+   "id": "C210",
+   "cat": "A",
+   "field": "F1",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C211": {
+   "id": "C211",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C212": {
+   "id": "C212",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C213": {
+   "id": "C213",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C214": {
+   "id": "C214",
+   "cat": "B",
+   "predicate": "многоуровневый лимит доли позиции с исключениями (по умолчанию 5,5%, обычно до 11%)",
+   "compound": true,
+   "src": "agree"
+  },
+  "C215": {
+   "id": "C215",
+   "cat": "B",
+   "predicate": "доля выше 8% только при внутренней оценке бумаги не ниже 4/5 (условие)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C216": {
+   "id": "C216",
+   "cat": "B",
+   "predicate": "доля выше 11% только при внутренней оценке 5/5 (условие)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C217": {
+   "id": "C217",
+   "cat": "A",
+   "field": "F4",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C218": {
+   "id": "C218",
+   "cat": "C",
+   "concept": "сильно переоценённая бумага; сильно завышенная позиция",
+   "compound": false,
+   "src": "agree"
+  },
+  "C219": {
+   "id": "C219",
+   "cat": "B",
+   "predicate": "запрет докупки в позицию с нереализованным убытком",
+   "compound": false,
+   "src": "agree"
+  },
+  "C220": {
+   "id": "C220",
+   "cat": "B",
+   "predicate": "запрет усреднения вниз крупной убыточной позиции",
+   "compound": false,
+   "src": "agree"
+  },
+  "C221": {
+   "id": "C221",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C222": {
+   "id": "C222",
+   "cat": "B",
+   "predicate": "дифференцированные лимиты долей по отраслям (свой лимит 5–50% для каждой)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C223": {
+   "id": "C223",
+   "cat": "B",
+   "predicate": "лимит доли конкретной группы: облигации банков не более 5%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C224": {
+   "id": "C224",
+   "cat": "B",
+   "predicate": "лимит доли в зависимости от кредитного рейтинга",
+   "compound": false,
+   "src": "agree"
+  },
+  "C225": {
+   "id": "C225",
+   "cat": "B",
+   "predicate": "лимит доли группы бумаг с рейтингом 15 не более 35%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C226": {
+   "id": "C226",
+   "cat": "B",
+   "predicate": "минимальный кредитный рейтинг (не ниже 16)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C227": {
+   "id": "C227",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C228": {
+   "id": "C228",
+   "cat": "B",
+   "predicate": "число эмитентов в портфеле по каждой отрасли и рейтингу",
+   "compound": false,
+   "src": "agree"
+  },
+  "C229": {
+   "id": "C229",
+   "cat": "A",
+   "field": "F2",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C230": {
+   "id": "C230",
+   "cat": "B",
+   "predicate": "минимальная доходность к погашению / оферте",
+   "compound": false,
+   "src": "agree"
+  },
+  "C231": {
+   "id": "C231",
+   "cat": "C",
+   "concept": "аномально низкая цена покупки",
+   "reason": "Порога «аномально низкой» цены нет, и не продаётся лишь «часть» таких лотов; F12 запрещает тикер целиком. Разные прочтения заблокируют разные лоты.",
+   "src": "adjudicated"
+  },
+  "C232": {
+   "id": "C232",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C233": {
+   "id": "C233",
+   "cat": "B",
+   "predicate": "максимальное число одновременно открытых позиций (4)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C234": {
+   "id": "C234",
+   "cat": "B",
+   "predicate": "серия из 3 убыточных сделок → блокировка торговли до конца дня",
+   "compound": false,
+   "src": "agree"
+  },
+  "C235": {
+   "id": "C235",
+   "cat": "B",
+   "predicate": "серия из 5 убыточных сделок → блокировка торговли до конца недели",
+   "compound": false,
+   "src": "agree"
+  },
+  "C236": {
+   "id": "C236",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C237": {
+   "id": "C237",
+   "cat": "B",
+   "predicate": "просадка 5% за неделю → блокировка торговли до конца недели",
+   "compound": false,
+   "src": "agree"
+  },
+  "C238": {
+   "id": "C238",
+   "cat": "E",
+   "compound": true,
+   "src": "agree"
+  },
+  "C239": {
+   "id": "C239",
+   "cat": "B",
+   "predicate": "просадка 10% за месяц → блокировка торговли до конца месяца",
+   "compound": false,
+   "src": "agree"
+  },
+  "C240": {
+   "id": "C240",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C241": {
+   "id": "C241",
+   "cat": "B",
+   "predicate": "событие ручного снятия стоп-заявки → блокировка торговли на день",
+   "compound": false,
+   "src": "agree"
+  },
+  "C242": {
+   "id": "C242",
+   "cat": "A",
+   "field": "F4",
+   "approx": true,
+   "reason": "Автор поясняет: это лимит доли компании, 3% на эмитента — пример таксономии «в одну компанию»→F4; префы и облигации эмитента не суммируются.",
+   "src": "adjudicated"
+  },
+  "C243": {
+   "id": "C243",
+   "cat": "E",
+   "compound": true,
+   "src": "agree"
+  },
+  "C244": {
+   "id": "C244",
+   "cat": "D",
+   "reason": "Тактика входа частями с докупкой на снижении: плановый размер позиции неизвестен, заявку не проверить; манера покупки, как «покупаю на просадках».",
+   "src": "adjudicated"
+  },
+  "C245": {
+   "id": "C245",
+   "cat": "A",
+   "field": "F15",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C246": {
+   "id": "C246",
+   "cat": "A",
+   "field": "F15",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C247": {
+   "id": "C247",
+   "cat": "A",
+   "field": "F15",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C248": {
+   "id": "C248",
+   "cat": "B",
+   "predicate": "доля группы бумаг, купленных на IPO, не более 20%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C249": {
+   "id": "C249",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C250": {
+   "id": "C250",
+   "cat": "D",
+   "reason": "Эвристика оценки надёжности по G-спреду в методике отбора: ничего не запрещает и не предписывает (о спреде 1,5–3% молчит) — процесс анализа.",
+   "src": "adjudicated"
+  },
+  "C251": {
+   "id": "C251",
+   "cat": "D",
+   "reason": "«Причина задуматься» — сигнал к анализу, а не запрет или операция по счёту; превращать G-спред >3% в блок значит исказить мягкий смысл.",
+   "src": "adjudicated"
+  },
+  "C252": {
+   "id": "C252",
+   "cat": "B",
+   "predicate": "агрегация по эмитенту: сумма всех выпусков облигаций эмитента ≤ 3% портфеля",
+   "reason": "Лимит обоснован дефолтом: обнуляются все выпуски эмитента разом. F4 «на бумагу» допустит 3% в каждый выпуск — цель теряется; нужна агрегация.",
+   "src": "adjudicated"
+  },
+  "C253": {
+   "id": "C253",
+   "cat": "B",
+   "predicate": "исключение ОФЗ из лимита на эмитента",
+   "compound": false,
+   "src": "agree"
+  },
+  "C254": {
+   "id": "C254",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C255": {
+   "id": "C255",
+   "cat": "B",
+   "predicate": "диапазон кредитного рейтинга агентств BB-…AA- (с редкими исключениями)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C256": {
+   "id": "C256",
+   "cat": "B",
+   "predicate": "минимальный рейтинг BBB- для эмитентов, лично не знакомых инвестору (условие)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C257": {
+   "id": "C257",
+   "cat": "B",
+   "predicate": "диапазон дюрации облигации 0,5–2 года",
+   "compound": false,
+   "src": "agree"
+  },
+  "C258": {
+   "id": "C258",
+   "cat": "B",
+   "predicate": "минимальный объём выпуска 300–500 млн руб.",
+   "compound": false,
+   "src": "agree"
+  },
+  "C259": {
+   "id": "C259",
+   "cat": "B",
+   "predicate": "агрегация по эмитенту 2–3% + лимит на выпуск 1,5–2,5% (F4)",
+   "compound": true,
+   "src": "agree"
+  },
+  "C260": {
+   "id": "C260",
+   "cat": "B",
+   "predicate": "лимит убытка за неделю 4% депозита",
+   "compound": false,
+   "src": "agree"
+  },
+  "C261": {
+   "id": "C261",
+   "cat": "B",
+   "predicate": "достижение недельного лимита убытка → блокировка торговли до понедельника",
+   "compound": false,
+   "src": "agree"
+  },
+  "C262": {
+   "id": "C262",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C263": {
+   "id": "C263",
+   "cat": "B",
+   "predicate": "кулдаун 1 час по инструменту после убыточной сделки",
+   "compound": false,
+   "src": "agree"
+  },
+  "C264": {
+   "id": "C264",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C265": {
+   "id": "C265",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C266": {
+   "id": "C266",
+   "cat": "D",
+   "reason": "Вход 1/8–2/4 позиции «почти всегда» — привычка, а не жёсткое правило; плановый размер позиции шлюзу неизвестен. Тактика входа, не обязанность.",
+   "src": "adjudicated"
+  },
+  "C267": {
+   "id": "C267",
+   "cat": "B",
+   "predicate": "абсолютный лимит стоимости позиции около 300 тыс. руб. (с исключениями)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C268": {
+   "id": "C268",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C269": {
+   "id": "C269",
+   "cat": "A",
+   "field": "F15",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C270": {
+   "id": "C270",
+   "cat": "B",
+   "predicate": "доля подгруппы (акции США) внутри класса акций 20–30%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C271": {
+   "id": "C271",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C272": {
+   "id": "C272",
+   "cat": "A",
+   "field": "F12",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C273": {
+   "id": "C273",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C274": {
+   "id": "C274",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C275": {
+   "id": "C275",
+   "cat": "A",
+   "field": "F5",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C276": {
+   "id": "C276",
+   "cat": "B",
+   "predicate": "агрегация по эмитенту (все выпуски одного эмитента не более 15%)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C277": {
+   "id": "C277",
+   "cat": "A",
+   "field": "F13",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C278": {
+   "id": "C278",
+   "cat": "B",
+   "predicate": "доля портфеля по кредитному рейтингу агентств (не ниже A- не менее 90%)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C279": {
+   "id": "C279",
+   "cat": "B",
+   "predicate": "лимит доли валютных активов (агрегация по валюте) не выше текущей",
+   "compound": false,
+   "src": "agree"
+  },
+  "C280": {
+   "id": "C280",
+   "cat": "B",
+   "predicate": "лимит доли одной позиции только для фьючерсов (условие по типу инструмента, доля по номинальной экспозиции)",
+   "reason": "Лимит только для фьючерсов (условие по типу, доля по экспозиции); F4 общий для всех бумаг: F4=50% заблокирует LQDT 95% — смысл искажается.",
+   "src": "adjudicated"
+  },
+  "C281": {
+   "id": "C281",
+   "cat": "B",
+   "predicate": "условный лимит доли инструмента в зависимости от режима волатильности",
+   "compound": false,
+   "src": "agree"
+  },
+  "C282": {
+   "id": "C282",
+   "cat": "B",
+   "predicate": "условный лимит доли инструмента в зависимости от режима волатильности",
+   "compound": false,
+   "src": "agree"
+  },
+  "C283": {
+   "id": "C283",
+   "cat": "B",
+   "predicate": "целевые доли конкретного инструмента и группы инструментов (валютный блок)",
+   "compound": true,
+   "src": "agree"
+  },
+  "C284": {
+   "id": "C284",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C285": {
+   "id": "C285",
+   "cat": "B",
+   "predicate": "состояние портфеля: совокупный риск открытых позиций по стопам выше 6% запрещает новые позиции",
+   "compound": false,
+   "src": "agree"
+  },
+  "C286": {
+   "id": "C286",
+   "cat": "B",
+   "predicate": "лимит убытка за месяц, после него запрет торговли до конца месяца",
+   "compound": false,
+   "src": "agree"
+  },
+  "C287": {
+   "id": "C287",
+   "cat": "B",
+   "predicate": "риск на сделку по стопу 2% и совокупный риск 6% от капитала на начало месяца",
+   "compound": true,
+   "src": "agree"
+  },
+  "C288": {
+   "id": "C288",
+   "cat": "B",
+   "predicate": "состояние портфеля: просадка счёта не более 10%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C289": {
+   "id": "C289",
+   "cat": "A",
+   "field": "F4,F5",
+   "approx": true,
+   "compound": true,
+   "src": "agree"
+  },
+  "C290": {
+   "id": "C290",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C291": {
+   "id": "C291",
+   "cat": "C",
+   "concept": "чрезмерная маржа (excessive margins)",
+   "compound": true,
+   "src": "agree"
+  },
+  "C292": {
+   "id": "C292",
+   "cat": "C",
+   "concept": "пенни-стоки (penny stocks)",
+   "compound": true,
+   "src": "agree"
+  },
+  "C293": {
+   "id": "C293",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C294": {
+   "id": "C294",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C295": {
+   "id": "C295",
+   "cat": "E",
+   "compound": true,
+   "src": "agree"
+  },
+  "C296": {
+   "id": "C296",
+   "cat": "C",
+   "concept": "все рынки сильно переоценены (vastly overvalued)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C297": {
+   "id": "C297",
+   "cat": "C",
+   "concept": "низкий долг; стабильно (consistently) растущие показатели без заданного окна",
+   "compound": true,
+   "src": "agree"
+  },
+  "C298": {
+   "id": "C298",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C299": {
+   "id": "C299",
+   "cat": "B",
+   "predicate": "агрегация по группе альтернативных активов (P2P, золото, PE) не более 5%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C300": {
+   "id": "C300",
+   "cat": "B",
+   "predicate": "рыночная производная метрика: доходность трежерис не ниже 2x earnings yield акций",
+   "compound": false,
+   "src": "agree"
+  },
+  "C301": {
+   "id": "C301",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C302": {
+   "id": "C302",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C303": {
+   "id": "C303",
+   "cat": "B",
+   "predicate": "рыночные данные: цена базового актива выше 10 долларов",
+   "compound": false,
+   "src": "agree"
+  },
+  "C304": {
+   "id": "C304",
+   "cat": "B",
+   "predicate": "метрики опциона: дельта в диапазоне -0.20...-0.30 и тип экспирации (только месячная)",
+   "compound": true,
+   "src": "agree"
+  },
+  "C305": {
+   "id": "C305",
+   "cat": "B",
+   "predicate": "срок до экспирации 21-60 дней",
+   "compound": false,
+   "src": "agree"
+  },
+  "C306": {
+   "id": "C306",
+   "cat": "B",
+   "predicate": "производная метрика сделки: годовая доходность выше 20%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C307": {
+   "id": "C307",
+   "cat": "C",
+   "concept": "прочие запланированные новости (other news) до экспирации",
+   "reason": "Отчётность до экспирации — B (календарь событий), но «other news» без операц. определения: макро (FOMC/CPI), дивиденды, дни инвестора. Compound.",
+   "src": "adjudicated"
+  },
+  "C308": {
+   "id": "C308",
+   "cat": "E",
+   "compound": false,
+   "src": "agree"
+  },
+  "C309": {
+   "id": "C309",
+   "cat": "B",
+   "predicate": "лимит числа сделок в торговой сессии (премаркет) за день",
+   "compound": false,
+   "src": "agree"
+  },
+  "C310": {
+   "id": "C310",
+   "cat": "A",
+   "field": "F11",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C311": {
+   "id": "C311",
+   "cat": "B",
+   "predicate": "соотношение цель/риск по заявке (тейк и стоп) не менее 2:1",
+   "compound": false,
+   "src": "agree"
+  },
+  "C312": {
+   "id": "C312",
+   "cat": "B",
+   "predicate": "лимит убытка за день, после него остановка торговли",
+   "compound": false,
+   "src": "agree"
+  },
+  "C313": {
+   "id": "C313",
+   "cat": "B",
+   "predicate": "условие на результаты сделок: после 3 убыточных сделок по бумаге запрет её до конца дня",
+   "compound": false,
+   "src": "agree"
+  },
+  "C314": {
+   "id": "C314",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C315": {
+   "id": "C315",
+   "cat": "B",
+   "predicate": "производная метрика: XIRR позиции не менее 24%",
+   "compound": false,
+   "src": "agree"
+  },
+  "C316": {
+   "id": "C316",
+   "cat": "B",
+   "predicate": "состояние портфеля: покрытие проданного колла базовым активом или длинным коллом",
+   "compound": false,
+   "src": "agree"
+  },
+  "C317": {
+   "id": "C317",
+   "cat": "D",
+   "reason": "Ведение журнала — процесс/дисциплина трейдера вне заявок (как «изучаю отчётность»); E — обязанности, порождающие операции по счёту (стоп, ребаланс).",
+   "src": "adjudicated"
+  },
+  "C318": {
+   "id": "C318",
+   "cat": "B",
+   "predicate": "риск на сделку по стопу не более 1% портфеля",
+   "compound": false,
+   "src": "agree"
+  },
+  "C319": {
+   "id": "C319",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C320": {
+   "id": "C320",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C321": {
+   "id": "C321",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C322": {
+   "id": "C322",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C323": {
+   "id": "C323",
+   "cat": "A",
+   "field": "F15",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C324": {
+   "id": "C324",
+   "cat": "B",
+   "predicate": "агрегация по заданным инвестором классам активов (подклассы), диапазон 5-30% на класс",
+   "compound": false,
+   "src": "agree"
+  },
+  "C325": {
+   "id": "C325",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C326": {
+   "id": "C326",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C327": {
+   "id": "C327",
+   "cat": "B",
+   "predicate": "окно времени > дня: изменения целевых долей (F15) и списка фондов (F2) вступают в силу только через 3 месяца ожидания",
+   "reason": "Чёткий запрет с параметром: правки долей (F15) и списка фондов (F2) вступают в силу через 3 мес; заявки сверяются с действующей версией — окно > дня.",
+   "src": "adjudicated"
+  },
+  "C328": {
+   "id": "C328",
+   "cat": "A",
+   "field": "F6",
+   "approx": false,
+   "compound": false,
+   "src": "agree"
+  },
+  "C329": {
+   "id": "C329",
+   "cat": "A",
+   "field": "F6",
+   "approx": true,
+   "compound": false,
+   "src": "agree"
+  },
+  "C330": {
+   "id": "C330",
+   "cat": "D",
+   "compound": true,
+   "src": "agree"
+  },
+  "C331": {
+   "id": "C331",
+   "cat": "B",
+   "predicate": "состояние портфеля: опционы только продажа покрытых коллов, покупка опционов запрещена",
+   "compound": false,
+   "src": "agree"
+  },
+  "C332": {
+   "id": "C332",
+   "cat": "B",
+   "predicate": "состояние портфеля: страйк проданного колла выше цены входа в базовый актив",
+   "compound": false,
+   "src": "agree"
+  },
+  "C333": {
+   "id": "C333",
+   "cat": "C",
+   "concept": "широкий ров (wide moat)",
+   "compound": false,
+   "src": "agree"
+  },
+  "C334": {
+   "id": "C334",
+   "cat": "B",
+   "predicate": "производная метрика: PEG не выше 1",
+   "compound": false,
+   "src": "agree"
+  },
+  "C335": {
+   "id": "C335",
+   "cat": "B",
+   "predicate": "целевая эффективная экспозиция с учётом плеча (look-through): 250% акции / 150% трежерис",
+   "compound": false,
+   "src": "agree"
+  },
+  "C336": {
+   "id": "C336",
+   "cat": "C",
+   "concept": "негативный моментум / формирование базы / резкий провал",
+   "compound": true,
+   "src": "agree"
+  },
+  "C337": {
+   "id": "C337",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C338": {
+   "id": "C338",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C339": {
+   "id": "C339",
+   "cat": "B",
+   "predicate": "межсчётная агрегация: доля маржинального счёта не более 10% совокупного портфеля",
+   "compound": false,
+   "src": "agree"
+  },
+  "C340": {
+   "id": "C340",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C341": {
+   "id": "C341",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  },
+  "C342": {
+   "id": "C342",
+   "cat": "D",
+   "compound": false,
+   "src": "agree"
+  }
+ }
+}

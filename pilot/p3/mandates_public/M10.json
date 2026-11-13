@@ -1,0 +1,38 @@
+{
+ "mid": "M10",
+ "sid": "S33",
+ "lang": "ru",
+ "source_url": "https://smart-lab.ru/blog/1111033.php",
+ "constraints": [
+  {
+   "cid": "C232"
+  },
+  {
+   "cid": "C233"
+  },
+  {
+   "cid": "C234"
+  },
+  {
+   "cid": "C235"
+  },
+  {
+   "cid": "C236"
+  },
+  {
+   "cid": "C237"
+  },
+  {
+   "cid": "C238"
+  },
+  {
+   "cid": "C239"
+  },
+  {
+   "cid": "C240"
+  },
+  {
+   "cid": "C241"
+  }
+ ]
+}

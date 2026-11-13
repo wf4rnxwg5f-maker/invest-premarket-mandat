@@ -1,0 +1,7264 @@
+{
+ "sets": [
+  {
+   "sid": "S1",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1345677.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-08-29",
+   "n": 6
+  },
+  {
+   "sid": "S2",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1368577.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-10-29",
+   "n": 6
+  },
+  {
+   "sid": "S3",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/652341.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2020-10-17",
+   "n": 7
+  },
+  {
+   "sid": "S4",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1029886.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2024-06-19",
+   "n": 7
+  },
+  {
+   "sid": "S5",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1295705.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-04-25",
+   "n": 7
+  },
+  {
+   "sid": "S6",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1303626.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "strategy",
+   "date": "2026-05-15",
+   "n": 7
+  },
+  {
+   "sid": "S7",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1138426.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2025-04-07",
+   "n": 4
+  },
+  {
+   "sid": "S8",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/836505.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "advice",
+   "date": "2022-09-10",
+   "n": 7
+  },
+  {
+   "sid": "S9",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1278247.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-04-09",
+   "n": 7
+  },
+  {
+   "sid": "S10",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1260187.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-01-31",
+   "n": 6
+  },
+  {
+   "sid": "S11",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1334151.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "institutional",
+   "date": "2026-07-29",
+   "n": 4
+  },
+  {
+   "sid": "S12",
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/514013.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "strategy",
+   "date": "2018-12-30",
+   "n": 4
+  },
+  {
+   "sid": "S13",
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/a-kak-invest-100mln-za-12-let/",
+   "source_name": "Т—Ж, история читателя",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2025-10-29",
+   "n": 12
+  },
+  {
+   "sid": "S14",
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/a-kak-invest-sistemno/",
+   "source_name": "Т—Ж, история читателя",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-01-21",
+   "n": 10
+  },
+  {
+   "sid": "S15",
+   "collector": "vc_dzen",
+   "source_url": "https://vc.ru/463596",
+   "source_name": "vc.ru, пост о семейных финансах",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2022-08-08",
+   "n": 12
+  },
+  {
+   "sid": "S16",
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/a-kak-invest-v-2012-i-prodolzhaiu/",
+   "source_name": "Т—Ж, история читателя",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2024-10-16",
+   "n": 13
+  },
+  {
+   "sid": "S17",
+   "collector": "vc_dzen",
+   "source_url": "https://habr.com/en/articles/538490",
+   "source_name": "Хабр, личный блог об инвестициях",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2021-01-21",
+   "n": 9
+  },
+  {
+   "sid": "S18",
+   "collector": "vc_dzen",
+   "source_url": "https://smart-lab.ru/blog/501855.php",
+   "source_name": "Смарт-лаб, блог трейдера",
+   "lang": "ru",
+   "source_kind": "strategy",
+   "date": "2018-10-28",
+   "n": 11
+  },
+  {
+   "sid": "S19",
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/a-kak-invest-nephew/",
+   "source_name": "Т—Ж, история читателя",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2022-01-15",
+   "n": 10
+  },
+  {
+   "sid": "S20",
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/my-invest-rules-1/",
+   "source_name": "Т—Ж, сообщество",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2021-04-19",
+   "n": 3
+  },
+  {
+   "sid": "S21",
+   "collector": "vc_dzen",
+   "source_url": "https://vc.ru/id2329653/930827-pravila-investirovaniya",
+   "source_name": "vc.ru, пост блогера",
+   "lang": "ru",
+   "source_kind": "advice",
+   "date": "2023-11-26",
+   "n": 7
+  },
+  {
+   "sid": "S22",
+   "collector": "vc_dzen",
+   "source_url": "https://vc.ru/money/174685-grows-sleduem-5-prostym-pravilam-investirovaniya-na-fondovom-rynke",
+   "source_name": "vc.ru, пост основателя сервиса",
+   "lang": "ru",
+   "source_kind": "advice",
+   "date": "2020-11-08",
+   "n": 4
+  },
+  {
+   "sid": "S23",
+   "collector": "forums",
+   "source_url": "https://www.bfm.ru/news/43330",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "strategy",
+   "date": "2010-01-25",
+   "n": 13
+  },
+  {
+   "sid": "S24",
+   "collector": "forums",
+   "source_url": "https://smart-lab.ru/blog/668132.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2021-01-03",
+   "n": 7
+  },
+  {
+   "sid": "S25",
+   "collector": "forums",
+   "source_url": "https://smart-lab.ru/blog/672778.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2021-01-27",
+   "n": 3
+  },
+  {
+   "sid": "S26",
+   "collector": "forums",
+   "source_url": "https://smart-lab.ru/blog/1328002.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-07-14",
+   "n": 6
+  },
+  {
+   "sid": "S27",
+   "collector": "forums",
+   "source_url": "https://smart-lab.ru/blog/943245.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2023-09-21",
+   "n": 4
+  },
+  {
+   "sid": "S28",
+   "collector": "forums",
+   "source_url": "https://www.dohod.ru/news/uk-dohod-na-konferencii-smart-lab-2026-kak-rabotat-s-obligaciyami-i-vdo-bez-illyuziy",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "institutional",
+   "date": "2026-11-09",
+   "n": 2
+  },
+  {
+   "sid": "S29",
+   "collector": "forums",
+   "source_url": "https://adventuresinfi.substack.com/p/my-investor-policy-statement",
+   "source_name": "",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "2019-10-29",
+   "n": 15
+  },
+  {
+   "sid": "S30",
+   "collector": "forums",
+   "source_url": "https://arichlife.com.au/?p=31531",
+   "source_name": "",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "2022-06-04",
+   "n": 5
+  },
+  {
+   "sid": "S31",
+   "collector": "forums",
+   "source_url": "https://practicalstockinvesting.com/2010/12/22/equity-position-size-ll-you-and-me/",
+   "source_name": "",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "2010-12-22",
+   "n": 3
+  },
+  {
+   "sid": "S32",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/158288.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2014-01-04",
+   "n": 10
+  },
+  {
+   "sid": "S33",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/1111033.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2025-02-01",
+   "n": 10
+  },
+  {
+   "sid": "S34",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/666016.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2020-12-21",
+   "n": 7
+  },
+  {
+   "sid": "S35",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/1359747.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "advice",
+   "date": "2026-10-06",
+   "n": 6
+  },
+  {
+   "sid": "S36",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/company/ivolga_capital/blog/1203434.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "institutional",
+   "date": "2025-09-11",
+   "n": 5
+  },
+  {
+   "sid": "S37",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/666424.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2020-12-23",
+   "n": 7
+  },
+  {
+   "sid": "S38",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/548868.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2019-07-07",
+   "n": 5
+  },
+  {
+   "sid": "S39",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/1372058.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "personal",
+   "date": "2026-11-08",
+   "n": 3
+  },
+  {
+   "sid": "S40",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/1250348.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "strategy",
+   "date": "2026-01-05",
+   "n": 5
+  },
+  {
+   "sid": "S41",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/1362583.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "strategy",
+   "date": "2026-10-14",
+   "n": 5
+  },
+  {
+   "sid": "S42",
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/64286.php",
+   "source_name": "",
+   "lang": "ru",
+   "source_kind": "advice",
+   "date": "2012-07-09",
+   "n": 4
+  },
+  {
+   "sid": "S43",
+   "collector": "en_rules",
+   "source_url": "https://journeytototalfreedom.blogspot.com/p/my-rules-of-prudent-investing.html",
+   "source_name": "Personal blog: My Rules of Prudent Investing",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "",
+   "n": 13
+  },
+  {
+   "sid": "S44",
+   "collector": "en_rules",
+   "source_url": "https://major.io/p/lessons-learned-from-selling-puts/",
+   "source_name": "Personal blog: lessons learned from selling puts",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "",
+   "n": 7
+  },
+  {
+   "sid": "S45",
+   "collector": "en_rules",
+   "source_url": "https://forums.bearbulltraders.com/topic/377-post-your-list-of-trading-rules",
+   "source_name": "Trading forum thread: post your list of trading rules (poster A)",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "",
+   "n": 5
+  },
+  {
+   "sid": "S46",
+   "collector": "en_rules",
+   "source_url": "https://learnoptions.substack.com/p/rules-for-dealing-with-options",
+   "source_name": "Substack: rules for dealing with options",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "",
+   "n": 3
+  },
+  {
+   "sid": "S47",
+   "collector": "en_rules",
+   "source_url": "https://arctaurus.substack.com/p/arctaurus-trading-journal-1-the-rules",
+   "source_name": "Substack trading journal #1: the rules",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "",
+   "n": 5
+  },
+  {
+   "sid": "S48",
+   "collector": "en_rules",
+   "source_url": "https://www.whitecoatinvestor.com/how-to-write-an-investing-personal-statement/",
+   "source_name": "Personal finance blog: author's own investment policy statement",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "2007",
+   "n": 6
+  },
+  {
+   "sid": "S49",
+   "collector": "en_rules",
+   "source_url": "https://www.goodreads.com/author_blog_posts/21361867-avoiding-leverage",
+   "source_name": "Author blog post: avoiding leverage",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "",
+   "n": 5
+  },
+  {
+   "sid": "S50",
+   "collector": "en_rules",
+   "source_url": "https://drphilzhou.blogspot.com/2021/08/my-stock-investing-rules.html",
+   "source_name": "Personal blog: my top 10 rules in stock investing",
+   "lang": "en",
+   "source_kind": "personal",
+   "date": "2021-08",
+   "n": 6
+  },
+  {
+   "sid": "S51",
+   "collector": "en_rules",
+   "source_url": "https://tradingmeditations.substack.com/p/do-this-one-thing-and-treading-with-leverage",
+   "source_name": "Substack post on trading with leverage",
+   "lang": "en",
+   "source_kind": "advice",
+   "date": "",
+   "n": 4
+  }
+ ],
+ "items": [
+  {
+   "id": "C1",
+   "sid": "S1",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Доля акций в портфеле не более 10%."
+  },
+  {
+   "id": "C2",
+   "sid": "S1",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Основу портфеля составляют облигации, но с осторожностью."
+  },
+  {
+   "id": "C3",
+   "sid": "S1",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "При признаках проблем у эмитента с высоким купоном немедленно выходить из позиции."
+  },
+  {
+   "id": "C4",
+   "sid": "S1",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Акции сейчас рассматриваются как спекуляция, долгосрочных идей в них автор не видит."
+  },
+  {
+   "id": "C5",
+   "sid": "S1",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Высокий купон трактуется как сигнал повышенного риска дефолта."
+  },
+  {
+   "id": "C6",
+   "sid": "S1",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Золото допускается в портфеле как страховка от валютных рисков."
+  },
+  {
+   "id": "C7",
+   "sid": "S2",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Доля одного эмитента от 3 до 15% портфеля облигаций (верхняя граница для ААА, ОФЗ, ВЭБ, РЖД, региональных)."
+  },
+  {
+   "id": "C8",
+   "sid": "S2",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Число эмитентов в портфеле не более примерно 40."
+  },
+  {
+   "id": "C9",
+   "sid": "S2",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не покупать дефолтные облигации и облигации с низким кредитным рейтингом."
+  },
+  {
+   "id": "C10",
+   "sid": "S2",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Для рейтинга А и ниже брать только облигации со сроком до 1 года."
+  },
+  {
+   "id": "C11",
+   "sid": "S2",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "При малом числе эмитентов свободный остаток держать в фонде ликвидности."
+  },
+  {
+   "id": "C12",
+   "sid": "S2",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Для защиты от инфляции использовать линкеры и флоатеры."
+  },
+  {
+   "id": "C13",
+   "sid": "S3",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Годовое изменение доли одного класса активов не более 2% стоимости портфеля."
+  },
+  {
+   "id": "C14",
+   "sid": "S3",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "В четвёртом квартале нельзя менять распределение на следующий год."
+  },
+  {
+   "id": "C15",
+   "sid": "S3",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Сателлитная часть не превышает 10% портфеля."
+  },
+  {
+   "id": "C16",
+   "sid": "S3",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Абсолютный лимит на одну позицию 50 тыс. руб."
+  },
+  {
+   "id": "C17",
+   "sid": "S3",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не более 5-6 изменений в акционном портфеле в год."
+  },
+  {
+   "id": "C18",
+   "sid": "S3",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "За одно изменение доля инструмента меняется не более чем на 0,5%."
+  },
+  {
+   "id": "C19",
+   "sid": "S3",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Целевая реальная доходность 8-9% годовых в рублях."
+  },
+  {
+   "id": "C20",
+   "sid": "S4",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не использовать заёмные средства и плечо."
+  },
+  {
+   "id": "C21",
+   "sid": "S4",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "В одну бумагу не более 20% портфеля."
+  },
+  {
+   "id": "C22",
+   "sid": "S4",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Относиться к акциям как к инструментам, без эмоций."
+  },
+  {
+   "id": "C23",
+   "sid": "S4",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Продавать акции, когда они становятся дорогими."
+  },
+  {
+   "id": "C24",
+   "sid": "S4",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Продажи всегда частями, лесенкой."
+  },
+  {
+   "id": "C25",
+   "sid": "S4",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не фиксировать заранее целевую цену продажи."
+  },
+  {
+   "id": "C26",
+   "sid": "S4",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Нет фиксированной формулы распределения между акциями и облигациями."
+  },
+  {
+   "id": "C27",
+   "sid": "S5",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не инвестировать в непонятные идеи."
+  },
+  {
+   "id": "C28",
+   "sid": "S5",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Перед покупкой понимать, что это за бизнес."
+  },
+  {
+   "id": "C29",
+   "sid": "S5",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Перед покупкой знать, на чем компания зарабатывает."
+  },
+  {
+   "id": "C30",
+   "sid": "S5",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Обосновать, почему покупка именно сейчас."
+  },
+  {
+   "id": "C31",
+   "sid": "S5",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Определить драйвер переоценки."
+  },
+  {
+   "id": "C32",
+   "sid": "S5",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Заранее определить условие отмены идеи."
+  },
+  {
+   "id": "C33",
+   "sid": "S5",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не входить в идею, если нельзя объяснить её простыми словами."
+  },
+  {
+   "id": "C34",
+   "sid": "S6",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Целевая доля акций 60%."
+  },
+  {
+   "id": "C35",
+   "sid": "S6",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Целевая доля ЗПИФ недвижимости 20%."
+  },
+  {
+   "id": "C36",
+   "sid": "S6",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Целевая доля облигаций 10%."
+  },
+  {
+   "id": "C37",
+   "sid": "S6",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Целевая доля золота 10%."
+  },
+  {
+   "id": "C38",
+   "sid": "S6",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Кредитное качество облигаций не ниже ВВ+, диверсификация по множеству выпусков."
+  },
+  {
+   "id": "C39",
+   "sid": "S6",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Все выплаты реинвестируются."
+  },
+  {
+   "id": "C40",
+   "sid": "S6",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Приводить классы активов к целевым долям постепенными докупками."
+  },
+  {
+   "id": "C41",
+   "sid": "S7",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "В новый инструмент сначала вкладывать не более 1% средств."
+  },
+  {
+   "id": "C42",
+   "sid": "S7",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не увеличивать вложения в новый инструмент минимум год."
+  },
+  {
+   "id": "C43",
+   "sid": "S7",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Наращивать позицию шагами по 1% портфеля."
+  },
+  {
+   "id": "C44",
+   "sid": "S7",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Правило применяется без исключений."
+  },
+  {
+   "id": "C45",
+   "sid": "S8",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Анализ: 80% фундаментальный, 20% технический."
+  },
+  {
+   "id": "C46",
+   "sid": "S8",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не использовать шорты и плечи."
+  },
+  {
+   "id": "C47",
+   "sid": "S8",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Инвестировать, а не спекулировать."
+  },
+  {
+   "id": "C48",
+   "sid": "S8",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не гнаться за кратным ростом, предпочитать стабильные бизнесы."
+  },
+  {
+   "id": "C49",
+   "sid": "S8",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Если драйвер роста не реализовался, продать бумагу, даже в минус."
+  },
+  {
+   "id": "C50",
+   "sid": "S8",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Ежемесячно пополнять инвестиции."
+  },
+  {
+   "id": "C51",
+   "sid": "S8",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Цель: доходность портфеля выше банковских депозитов."
+  },
+  {
+   "id": "C52",
+   "sid": "S9",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Диверсифицировать активы."
+  },
+  {
+   "id": "C53",
+   "sid": "S9",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Периодически ребалансировать портфель."
+  },
+  {
+   "id": "C54",
+   "sid": "S9",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Минимизировать издержки."
+  },
+  {
+   "id": "C55",
+   "sid": "S9",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Оптимизировать налоги."
+  },
+  {
+   "id": "C56",
+   "sid": "S9",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Минимум спекулятивных сделок."
+  },
+  {
+   "id": "C57",
+   "sid": "S9",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Держать подушку безопасности."
+  },
+  {
+   "id": "C58",
+   "sid": "S9",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Долгосрочный горизонт."
+  },
+  {
+   "id": "C59",
+   "sid": "S10",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Эксперимент ведётся на реальном счёте."
+  },
+  {
+   "id": "C60",
+   "sid": "S10",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Каждая позиция должна иметь аргументы."
+  },
+  {
+   "id": "C61",
+   "sid": "S10",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Доля одного эмитента ограничена."
+  },
+  {
+   "id": "C62",
+   "sid": "S10",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Кредитное плечо не используется."
+  },
+  {
+   "id": "C63",
+   "sid": "S10",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Контроль просадки важнее доходности."
+  },
+  {
+   "id": "C64",
+   "sid": "S10",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Ошибки фиксируются и не скрываются."
+  },
+  {
+   "id": "C65",
+   "sid": "S11",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Доля одной бумаги не более 15%."
+  },
+  {
+   "id": "C66",
+   "sid": "S11",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Доля одного сектора не более 35%."
+  },
+  {
+   "id": "C67",
+   "sid": "S11",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Заёмные средства не используются."
+  },
+  {
+   "id": "C68",
+   "sid": "S11",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Допускается уход до 100% в инструменты денежного рынка."
+  },
+  {
+   "id": "C69",
+   "sid": "S12",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Доля одной бумаги не более 20%."
+  },
+  {
+   "id": "C70",
+   "sid": "S12",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Минимизировать риск портфеля."
+  },
+  {
+   "id": "C71",
+   "sid": "S12",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Доходность портфеля выше 2% за расчётный период."
+  },
+  {
+   "id": "C72",
+   "sid": "S12",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Стоимость портфеля с учётом лотов не превышает имеющихся средств."
+  },
+  {
+   "id": "C73",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Облигации — не менее 50% портфеля."
+  },
+  {
+   "id": "C74",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Акции 45%, остальное во вкладах и накопительных счетах."
+  },
+  {
+   "id": "C75",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Ядро портфеля — корпоративные облигации и дивидендные акции."
+  },
+  {
+   "id": "C76",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Эмитенты только с понятным бизнесом и рейтингом не ниже ВВВ−."
+  },
+  {
+   "id": "C77",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Лимит на эмитента: 10% при уверенности, до 3% при сомнениях."
+  },
+  {
+   "id": "C78",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Использовать нескольких брокеров."
+  },
+  {
+   "id": "C79",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Ежегодное пополнение на 400 000 ₽ ради налогового вычета."
+  },
+  {
+   "id": "C80",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Инвестировать не менее 30% основного дохода."
+  },
+  {
+   "id": "C81",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Инвестировать не менее половины дополнительных поступлений."
+  },
+  {
+   "id": "C82",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Свободные деньги держать на накопительных счетах, не на карте."
+  },
+  {
+   "id": "C83",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "В крипте — лишь незначительная часть капитала."
+  },
+  {
+   "id": "C84",
+   "sid": "S13",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Горизонт инвестирования от 20 лет."
+  },
+  {
+   "id": "C85",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Структура портфеля 60% акций / 40% облигаций."
+  },
+  {
+   "id": "C86",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Акции преимущественно дивидендные."
+  },
+  {
+   "id": "C87",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Брать акции только если понимает причины и сроки роста."
+  },
+  {
+   "id": "C88",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "В облигационной части 60% — длинные ОФЗ с купоном около 12%."
+  },
+  {
+   "id": "C89",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "20% облигационной части — короткие муниципальные облигации."
+  },
+  {
+   "id": "C90",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "20% — корпоративные облигации, мусорные не покупать."
+  },
+  {
+   "id": "C91",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Низкий рейтинг допустим лишь если он упал уже во время владения."
+  },
+  {
+   "id": "C92",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Цель: направлять 30% дохода на фондовый рынок."
+  },
+  {
+   "id": "C93",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Округлять покупки до 100 и откладывать разницу."
+  },
+  {
+   "id": "C94",
+   "sid": "S14",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не нервничать из-за просадок."
+  },
+  {
+   "id": "C95",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Подушку безопасности хранить на вкладе (резерв на 3–5 месяцев)."
+  },
+  {
+   "id": "C96",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Вклады не дольше полугода."
+  },
+  {
+   "id": "C97",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Доступ к деньгам важнее процентов."
+  },
+  {
+   "id": "C98",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Доходность считать после налога."
+  },
+  {
+   "id": "C99",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не использовать автоследование."
+  },
+  {
+   "id": "C100",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Хайповые бумаги — на отдельном экспериментальном счёте."
+  },
+  {
+   "id": "C101",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Крипта — 1–5% активов."
+  },
+  {
+   "id": "C102",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Из крипты только стейблкоины, ETH и BTC."
+  },
+  {
+   "id": "C103",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не парковать деньги в краудлендинге."
+  },
+  {
+   "id": "C104",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не покупать инвестиционную недвижимость."
+  },
+  {
+   "id": "C105",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не полагаться на аналитику брокера."
+  },
+  {
+   "id": "C106",
+   "sid": "S15",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Часть средств держать наличными вне дома."
+  },
+  {
+   "id": "C107",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Новую компанию — не более одного лота."
+  },
+  {
+   "id": "C108",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Российские акции покупать при рекомендации СД по дивидендам."
+  },
+  {
+   "id": "C109",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Стоп-заявки не использовать."
+  },
+  {
+   "id": "C110",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Без заёмных средств."
+  },
+  {
+   "id": "C111",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Только облигации с фиксированным купоном."
+  },
+  {
+   "id": "C112",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Облигации покупать при минимальном НКД."
+  },
+  {
+   "id": "C113",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Исключать компании и фонды без выплат."
+  },
+  {
+   "id": "C114",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не покупать акции производителей алкоголя и табака."
+  },
+  {
+   "id": "C115",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "ВТБ — только на замену или для трейдинга."
+  },
+  {
+   "id": "C116",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Наращивать долю замещающих еврооблигаций."
+  },
+  {
+   "id": "C117",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Вносить в портфель 10–30% доходов."
+  },
+  {
+   "id": "C118",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Шорт только по уже имеющимся акциям."
+  },
+  {
+   "id": "C119",
+   "sid": "S16",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Наращивать позицию при позитивной картине."
+  },
+  {
+   "id": "C120",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Основной критерий оценки — капитализация."
+  },
+  {
+   "id": "C121",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Предпочитать компании, продуктами которых пользовался сам."
+  },
+  {
+   "id": "C122",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Меньше сотрудников — лучше."
+  },
+  {
+   "id": "C123",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Приоритет инновационным секторам в зоне понимания."
+  },
+  {
+   "id": "C124",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Предпочитать продуктовые компании с автоматизацией."
+  },
+  {
+   "id": "C125",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Покупать редко."
+  },
+  {
+   "id": "C126",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Продавать редко, при ребалансировке."
+  },
+  {
+   "id": "C127",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Платить налоги по месту резидентства."
+  },
+  {
+   "id": "C128",
+   "sid": "S17",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не инвестировать в рубли."
+  },
+  {
+   "id": "C129",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Только долгосрочная торговля."
+  },
+  {
+   "id": "C130",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Потенциал роста бумаги не менее 200%."
+  },
+  {
+   "id": "C131",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Потенциал падения должен быть небольшим."
+  },
+  {
+   "id": "C132",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Отбирать акции с волатильностью выше 100% годовых."
+  },
+  {
+   "id": "C133",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Покупать на падении, продавать на росте."
+  },
+  {
+   "id": "C134",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Не покупать на исторических максимумах."
+  },
+  {
+   "id": "C135",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Цель не обыграть рынок."
+  },
+  {
+   "id": "C136",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Решения определяет цена, а не время."
+  },
+  {
+   "id": "C137",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Доля акций растёт при падении рынка."
+  },
+  {
+   "id": "C138",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Не входить после состоявшегося роста, оставаться вне рынка."
+  },
+  {
+   "id": "C139",
+   "sid": "S18",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Продавать при росте акции на 200–400%."
+  },
+  {
+   "id": "C140",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не усреднять падающие бумаги, ждать разворота."
+  },
+  {
+   "id": "C141",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Делить портфель по срокам целей."
+  },
+  {
+   "id": "C142",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "На ИИС только российские бумаги."
+  },
+  {
+   "id": "C143",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не выводить средства с ИИС."
+  },
+  {
+   "id": "C144",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Ежегодный взнос 5000 ₽ на счёт племянника."
+  },
+  {
+   "id": "C145",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Ежемесячный взнос 1000 ₽ на тот же счёт."
+  },
+  {
+   "id": "C146",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Передать счёт племяннику к 21 году."
+  },
+  {
+   "id": "C147",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Еженедельно пополнять копилку на 200 ₽."
+  },
+  {
+   "id": "C148",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Все кешбэки — в инвесткопилку."
+  },
+  {
+   "id": "C149",
+   "sid": "S19",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Округлять покупки до 100 ₽ и откладывать разницу."
+  },
+  {
+   "id": "C150",
+   "sid": "S20",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не совершать сделок на голодный желудок."
+  },
+  {
+   "id": "C151",
+   "sid": "S20",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Любую рекомендацию проверять самостоятельно."
+  },
+  {
+   "id": "C152",
+   "sid": "S20",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не считать никакую компанию вечно устойчивой."
+  },
+  {
+   "id": "C153",
+   "sid": "S21",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не вкладывать деньги, потерю которых нельзя пережить."
+  },
+  {
+   "id": "C154",
+   "sid": "S21",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Без заёмных и последних средств."
+  },
+  {
+   "id": "C155",
+   "sid": "S21",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "На старте инвестировать не более 10% средств."
+  },
+  {
+   "id": "C156",
+   "sid": "S21",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Портфель онлайн-проектов — 10–15 проектов."
+  },
+  {
+   "id": "C157",
+   "sid": "S21",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Равные суммы на каждый проект."
+  },
+  {
+   "id": "C158",
+   "sid": "S21",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не верить обещаниям гарантированной прибыли."
+  },
+  {
+   "id": "C159",
+   "sid": "S21",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Знать точки входа и выхода заранее."
+  },
+  {
+   "id": "C160",
+   "sid": "S22",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не пытаться обыграть рынок активным управлением."
+  },
+  {
+   "id": "C161",
+   "sid": "S22",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не выжидать момент покупки."
+  },
+  {
+   "id": "C162",
+   "sid": "S22",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Покупать навсегда, не реагировать на колебания."
+  },
+  {
+   "id": "C163",
+   "sid": "S22",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Инвестировать через ETF."
+  },
+  {
+   "id": "C164",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Главный приоритет портфеля — сохранение капитала."
+  },
+  {
+   "id": "C165",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Акции допустимы до 100% портфеля, только торгуемые на ММВБ со среднедневным оборотом не менее 1 млн руб."
+  },
+  {
+   "id": "C166",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Инструменты с фиксированной доходностью — не более 50% портфеля."
+  },
+  {
+   "id": "C167",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Инструменты срочного рынка — не более 30% портфеля."
+  },
+  {
+   "id": "C168",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Спекулятивная часть составляет 33,3% первоначального капитала (инвестиционная — 66,6%)."
+  },
+  {
+   "id": "C169",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Диверсификация по отраслям; доля одной бумаги не более 25% активов."
+  },
+  {
+   "id": "C170",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "В инвестиционной части от 1 до 20 бумаг."
+  },
+  {
+   "id": "C171",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Бумаги отбираются по внутриотраслевым рейтингам на основе фундаментальных коэффициентов."
+  },
+  {
+   "id": "C172",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Ребалансировка и ревизия портфеля еженедельно по пятницам."
+  },
+  {
+   "id": "C173",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Хеджирование портфеля фьючерсами и/или опционами ФОРТС."
+  },
+  {
+   "id": "C174",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Вход в позиции — по сигналам технического анализа."
+  },
+  {
+   "id": "C175",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Выход из позиций — по целевым уровням, рассчитанным фундаментально."
+  },
+  {
+   "id": "C176",
+   "sid": "S23",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Риск по спекулятивной позиции — менее 3%."
+  },
+  {
+   "id": "C177",
+   "sid": "S24",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Эмитентов делит на группы по качеству и каждой группе задаёт денежный лимит позиции."
+  },
+  {
+   "id": "C178",
+   "sid": "S24",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Максимальное плечо — 3 млн руб."
+  },
+  {
+   "id": "C179",
+   "sid": "S24",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Плечо не больше 1:0,30 к собственным средствам."
+  },
+  {
+   "id": "C180",
+   "sid": "S24",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "К концу 2022 года плечо сокращается до нуля."
+  },
+  {
+   "id": "C181",
+   "sid": "S24",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Плечо использовать только в моменты просадки рынка на 10–30% от локальных максимумов."
+  },
+  {
+   "id": "C182",
+   "sid": "S24",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не держать мелкие позиции (по 50–100 тыс. руб.)."
+  },
+  {
+   "id": "C183",
+   "sid": "S24",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Позиции, выросшие выше лимита, не урезает."
+  },
+  {
+   "id": "C184",
+   "sid": "S25",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Высокодоходные рискованные облигации (джанки) в портфеле не держит."
+  },
+  {
+   "id": "C185",
+   "sid": "S25",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Если и допускает рискованные бумаги, то лишь долями 10–20%."
+  },
+  {
+   "id": "C186",
+   "sid": "S25",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "При падении ставок удлиняет дюрацию, при росте — переходит в короткие бумаги."
+  },
+  {
+   "id": "C187",
+   "sid": "S26",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Каждая покупка должна опираться на конкретную идею."
+  },
+  {
+   "id": "C188",
+   "sid": "S26",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Если идея жива, а цена упала, докупает или держит."
+  },
+  {
+   "id": "C189",
+   "sid": "S26",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Если идея отменилась, бумагу продаёт независимо от результата."
+  },
+  {
+   "id": "C190",
+   "sid": "S26",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Бумага, не повысившая дивиденды, исключается из дивидендного портфеля."
+  },
+  {
+   "id": "C191",
+   "sid": "S26",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Слишком дорогие бумаги не покупает."
+  },
+  {
+   "id": "C192",
+   "sid": "S26",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Зарубежные акции не держит."
+  },
+  {
+   "id": "C193",
+   "sid": "S27",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не пересиживать убытки."
+  },
+  {
+   "id": "C194",
+   "sid": "S27",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не торговать против тренда."
+  },
+  {
+   "id": "C195",
+   "sid": "S27",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не продавать акции, купленные по хорошей цене с сильными фундаментальными показателями."
+  },
+  {
+   "id": "C196",
+   "sid": "S27",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Плечо — только при полной уверенности в росте актива."
+  },
+  {
+   "id": "C197",
+   "sid": "S28",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Доля одного эмитента не более 10% портфеля."
+  },
+  {
+   "id": "C198",
+   "sid": "S28",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Эмитенты с внутренней оценкой ниже 2 из 10 попадают в чёрный список."
+  },
+  {
+   "id": "C199",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Покупать только при перспективе 3–5-кратного роста за 5–7 лет."
+  },
+  {
+   "id": "C200",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Портфель менее 20 компаний, ориентир 12–15."
+  },
+  {
+   "id": "C201",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Покупать траншами до £2500, на новую идею не более £6667."
+  },
+  {
+   "id": "C202",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Докупка в уже полную позицию — максимум £2000."
+  },
+  {
+   "id": "C203",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не покупать дороже справедливой цены более чем на 15%."
+  },
+  {
+   "id": "C204",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Рассмотреть ребалансировку, если одна бумага больше 20% портфеля."
+  },
+  {
+   "id": "C205",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не более 2 платных аналитических сервисов, до £45 в месяц."
+  },
+  {
+   "id": "C206",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "В крипто не более £1000, пока не разберётся."
+  },
+  {
+   "id": "C207",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не использовать опционы."
+  },
+  {
+   "id": "C208",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не открывать короткие позиции."
+  },
+  {
+   "id": "C209",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не покупать фонды."
+  },
+  {
+   "id": "C210",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не покупать ETF."
+  },
+  {
+   "id": "C211",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не тайминговать рынок и не продавать в панике при коррекциях."
+  },
+  {
+   "id": "C212",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "По возможности избегать налога на прирост капитала на счёте в Degiro."
+  },
+  {
+   "id": "C213",
+   "sid": "S29",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Покупать с намерением держать бессрочно."
+  },
+  {
+   "id": "C214",
+   "sid": "S30",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Стандартная позиция 3%, обычный максимум 5,5%, в большинстве случаев потолок 11%."
+  },
+  {
+   "id": "C215",
+   "sid": "S30",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Доля свыше 8% допустима только при оценке бумаги 4 из 5."
+  },
+  {
+   "id": "C216",
+   "sid": "S30",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Доля свыше 11% — только при оценке 5 из 5."
+  },
+  {
+   "id": "C217",
+   "sid": "S30",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Никогда не покупать позицию в 30% портфеля."
+  },
+  {
+   "id": "C218",
+   "sid": "S30",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не держать сильно завышенную позицию в бумаге, которую считает очень переоценённой."
+  },
+  {
+   "id": "C219",
+   "sid": "S31",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Никогда не докупает в просевшую позицию."
+  },
+  {
+   "id": "C220",
+   "sid": "S31",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не усредняться в крупной позиции, пошедшей против него."
+  },
+  {
+   "id": "C221",
+   "sid": "S31",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "При достижении позицией 5% акций начинает сокращать её, не давая расти дальше."
+  },
+  {
+   "id": "C222",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Доля каждой отрасли ограничена лимитом от 5% до 50%."
+  },
+  {
+   "id": "C223",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Банковские облигации не более 5% портфеля."
+  },
+  {
+   "id": "C224",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Лимит доли растёт с рейтингом бумаги."
+  },
+  {
+   "id": "C225",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Бумаги рейтинга 15 не более 35% портфеля."
+  },
+  {
+   "id": "C226",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Бумаги ниже рейтинга 16 не покупаются."
+  },
+  {
+   "id": "C227",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "При понижении рейтинга бумага автоматически выставляется на продажу."
+  },
+  {
+   "id": "C228",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Для каждой отрасли и рейтинга задано число эмитентов в портфеле."
+  },
+  {
+   "id": "C229",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Ведётся чёрный список бумаг, которые не покупаются."
+  },
+  {
+   "id": "C230",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Порог доходности: бумага с доходностью ниже порога не покупается."
+  },
+  {
+   "id": "C231",
+   "sid": "S32",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Бумаги, купленные по аномально низкой цене, не продаются."
+  },
+  {
+   "id": "C232",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Убыток на сделку ограничен 1% спекулятивного портфеля."
+  },
+  {
+   "id": "C233",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не более 4 открытых сделок одновременно."
+  },
+  {
+   "id": "C234",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "После 3 убыточных сделок подряд торговля прекращается до конца дня."
+  },
+  {
+   "id": "C235",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "После 5 убыточных сделок подряд торговля прекращается до конца недели."
+  },
+  {
+   "id": "C236",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "После серии из 5 убытков риск на сделку снижается с 1% до 0,5% на неделю."
+  },
+  {
+   "id": "C237",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Просадка 5% за неделю останавливает торговлю до конца недели."
+  },
+  {
+   "id": "C238",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "После недельной просадки не более одной сделки в день и риск 0,5%."
+  },
+  {
+   "id": "C239",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Просадка 10% за месяц останавливает торговлю до конца месяца."
+  },
+  {
+   "id": "C240",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "После месячной просадки риск на сделку снижается до 0,5% на следующий месяц."
+  },
+  {
+   "id": "C241",
+   "sid": "S33",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Ручное снятие стоп-лосса запрещает торговлю в этот день."
+  },
+  {
+   "id": "C242",
+   "sid": "S34",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Не более 3% портфеля на одного эмитента."
+  },
+  {
+   "id": "C243",
+   "sid": "S34",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Долгосрочная доля одной компании 0,5-2%, после роста позицию сокращать до этого уровня."
+  },
+  {
+   "id": "C244",
+   "sid": "S34",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "В бумагу всегда входить частями."
+  },
+  {
+   "id": "C245",
+   "sid": "S34",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Акции 30-70% портфеля."
+  },
+  {
+   "id": "C246",
+   "sid": "S34",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Облигации 20-60% портфеля."
+  },
+  {
+   "id": "C247",
+   "sid": "S34",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Фонды не более 20% портфеля."
+  },
+  {
+   "id": "C248",
+   "sid": "S34",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "IPO не более 20% портфеля."
+  },
+  {
+   "id": "C249",
+   "sid": "S35",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не полагаться на кредитный рейтинг при выборе."
+  },
+  {
+   "id": "C250",
+   "sid": "S35",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "G-спред к ОФЗ 1-1,5% считается нормой."
+  },
+  {
+   "id": "C251",
+   "sid": "S35",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "G-спред выше 3% сигнал опасности."
+  },
+  {
+   "id": "C252",
+   "sid": "S35",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Не более 3% на эмитента."
+  },
+  {
+   "id": "C253",
+   "sid": "S35",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Лимит 3% не действует для ОФЗ."
+  },
+  {
+   "id": "C254",
+   "sid": "S35",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Приоритет надёжности эмитента над доходностью."
+  },
+  {
+   "id": "C255",
+   "sid": "S36",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Покупать бумаги с рейтингом от BB- до AA-."
+  },
+  {
+   "id": "C256",
+   "sid": "S36",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Незнакомые эмитенты только с рейтингом не ниже BBB-."
+  },
+  {
+   "id": "C257",
+   "sid": "S36",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Дюрация от 0,5 до 2 лет."
+  },
+  {
+   "id": "C258",
+   "sid": "S36",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "Не покупать выпуски менее 300-500 млн руб."
+  },
+  {
+   "id": "C259",
+   "sid": "S36",
+   "lang": "ru",
+   "kind": "institutional",
+   "paraphrase": "До 2-3% активов на эмитента и 1,5-2,5% на выпуск."
+  },
+  {
+   "id": "C260",
+   "sid": "S37",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Недельный лимит убытка 4% депозита (позже 2%)."
+  },
+  {
+   "id": "C261",
+   "sid": "S37",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "При достижении недельного лимита торговля останавливается до понедельника."
+  },
+  {
+   "id": "C262",
+   "sid": "S37",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Риск на сделку 0,5% депозита."
+  },
+  {
+   "id": "C263",
+   "sid": "S37",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "После убытка час не торговать этим инструментом."
+  },
+  {
+   "id": "C264",
+   "sid": "S37",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Параметры риска менять только после анализа журнала."
+  },
+  {
+   "id": "C265",
+   "sid": "S37",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Любой убыток должен быть заранее запланирован."
+  },
+  {
+   "id": "C266",
+   "sid": "S37",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Вход в сделку частями, от 1/8 до 2/4 позиции."
+  },
+  {
+   "id": "C267",
+   "sid": "S38",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Позиция в компании ограничена фиксированной суммой около 300 тыс. руб."
+  },
+  {
+   "id": "C268",
+   "sid": "S38",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Дивиденды сверх лимита направляются на облигации."
+  },
+  {
+   "id": "C269",
+   "sid": "S38",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Целевая доля акций 60%."
+  },
+  {
+   "id": "C270",
+   "sid": "S38",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Акции США 20-30% от акций."
+  },
+  {
+   "id": "C271",
+   "sid": "S38",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "50% дивидендов и все купоны направляются на покупку ОФЗ."
+  },
+  {
+   "id": "C272",
+   "sid": "S39",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Акции в ближайшие месяцы не продавать даже при падении."
+  },
+  {
+   "id": "C273",
+   "sid": "S39",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Порог выхода по облигации 15% от цены покупки."
+  },
+  {
+   "id": "C274",
+   "sid": "S39",
+   "lang": "ru",
+   "kind": "personal",
+   "paraphrase": "Высокодоходные облигации покупать только со стоп-лимитной заявкой."
+  },
+  {
+   "id": "C275",
+   "sid": "S40",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Отрасль не более 30% портфеля."
+  },
+  {
+   "id": "C276",
+   "sid": "S40",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Эмитент не более 15% портфеля."
+  },
+  {
+   "id": "C277",
+   "sid": "S40",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Отбирать только самые ликвидные выпуски."
+  },
+  {
+   "id": "C278",
+   "sid": "S40",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "90% портфеля в рейтинге не ниже А-."
+  },
+  {
+   "id": "C279",
+   "sid": "S40",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Не наращивать долю валютных бумаг."
+  },
+  {
+   "id": "C280",
+   "sid": "S41",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Один фьючерс не более 50% портфеля."
+  },
+  {
+   "id": "C281",
+   "sid": "S41",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Доля Nasdaq зависит от режима волатильности: 50%, 40%, 10%."
+  },
+  {
+   "id": "C282",
+   "sid": "S41",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Доля газа зависит от режима: 30%, 18%, 5%."
+  },
+  {
+   "id": "C283",
+   "sid": "S41",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Фиксированные доли: валютный блок 50%, LQDT 95%."
+  },
+  {
+   "id": "C284",
+   "sid": "S41",
+   "lang": "ru",
+   "kind": "strategy",
+   "paraphrase": "Запрет ручного вмешательства в сигналы модели."
+  },
+  {
+   "id": "C285",
+   "sid": "S42",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "При совокупном риске открытых позиций выше 6% новые позиции запрещены."
+  },
+  {
+   "id": "C286",
+   "sid": "S42",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "При исчерпании лимита 6% не торговать до конца месяца."
+  },
+  {
+   "id": "C287",
+   "sid": "S42",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Риск 2% на сделку и 6% на все позиции пересчитывается ежемесячно."
+  },
+  {
+   "id": "C288",
+   "sid": "S42",
+   "lang": "ru",
+   "kind": "advice",
+   "paraphrase": "Допустимая просадка счёта 10%."
+  },
+  {
+   "id": "C289",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Одна акция не более 5% портфеля, один сектор не более 25%."
+  },
+  {
+   "id": "C290",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Покупать с намерением держать бессрочно."
+  },
+  {
+   "id": "C291",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не использовать опционы, чрезмерную маржу, шорты, форекс, фьючерсы, сырьё, хедж-фонды."
+  },
+  {
+   "id": "C292",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Избегать активно управляемых фондов, пенни-стоков, ETF с плечом и обратных ETF."
+  },
+  {
+   "id": "C293",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Ежегодно вносить максимум в налогово-отсроченный пенсионный счёт."
+  },
+  {
+   "id": "C294",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Ежегодно вносить максимум в Roth IRA."
+  },
+  {
+   "id": "C295",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Для индексных фондов покупать при Shiller PE 15, продавать при 24, с правилом 6% отката."
+  },
+  {
+   "id": "C296",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Держать наличные менее 5% портфеля, кроме случая, когда все рынки сильно переоценены."
+  },
+  {
+   "id": "C297",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Новая покупка: стабильный ROE не ниже 15%, низкий долг, растущие прибыль на акцию и дивиденды."
+  },
+  {
+   "id": "C298",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Если кандидат прошёл критерии, входить малой долей и постепенно."
+  },
+  {
+   "id": "C299",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Альтернативные активы (P2P, золото, private equity) держать менее 5% портфеля."
+  },
+  {
+   "id": "C300",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Покупать облигации только если доходность трежерис минимум вдвое выше доходности прибыли акций."
+  },
+  {
+   "id": "C301",
+   "sid": "S43",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Продавать для фиксации убытка, при признании ошибки или ухудшении фундаментала."
+  },
+  {
+   "id": "C302",
+   "sid": "S44",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Базовая акция должна быть такой, которую готов держать долго."
+  },
+  {
+   "id": "C303",
+   "sid": "S44",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Цена базовой акции выше 10 долларов."
+  },
+  {
+   "id": "C304",
+   "sid": "S44",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Дельта -0.20...-0.30, только месячные экспирации, без недельных."
+  },
+  {
+   "id": "C305",
+   "sid": "S44",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "До экспирации от 21 до 60 дней."
+  },
+  {
+   "id": "C306",
+   "sid": "S44",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Годовая доходность сделки выше 20%."
+  },
+  {
+   "id": "C307",
+   "sid": "S44",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "До экспирации не должно быть отчётности и других запланированных новостей."
+  },
+  {
+   "id": "C308",
+   "sid": "S44",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Всегда закрывать сделку при достижении 50% прибыли."
+  },
+  {
+   "id": "C309",
+   "sid": "S45",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не более одной предрыночной сделки."
+  },
+  {
+   "id": "C310",
+   "sid": "S45",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не более 6 сделок в день."
+  },
+  {
+   "id": "C311",
+   "sid": "S45",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Входить только при соотношении цель/риск 2:1, иначе ждать лучшего входа."
+  },
+  {
+   "id": "C312",
+   "sid": "S45",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "При дневном убытке свыше 150 долларов прекращать торговлю."
+  },
+  {
+   "id": "C313",
+   "sid": "S45",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "После трёх убыточных сделок по одной бумаге убрать её из торговли до конца дня."
+  },
+  {
+   "id": "C314",
+   "sid": "S46",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Продавать путы только на компании, которыми готов владеть, и при полном денежном покрытии."
+  },
+  {
+   "id": "C315",
+   "sid": "S46",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Позиция должна давать XIRR не менее 24%."
+  },
+  {
+   "id": "C316",
+   "sid": "S46",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Продавать колл только при наличии базовой акции или купленного защитного колла."
+  },
+  {
+   "id": "C317",
+   "sid": "S47",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Вести журнал: подробно записывать каждую сделку."
+  },
+  {
+   "id": "C318",
+   "sid": "S47",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не рисковать более 1% портфеля на сделку."
+  },
+  {
+   "id": "C319",
+   "sid": "S47",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Соблюдать торговые правила всегда, без исключений (после бэктеста)."
+  },
+  {
+   "id": "C320",
+   "sid": "S47",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Фиксировать прибыль рано и часто, копить мелкие выигрыши."
+  },
+  {
+   "id": "C321",
+   "sid": "S47",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не открывать новую сделку, пока предыдущая не записана и не разобрана."
+  },
+  {
+   "id": "C322",
+   "sid": "S48",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не продавать в панике при коррекциях."
+  },
+  {
+   "id": "C323",
+   "sid": "S48",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Целевое распределение: 75% акции, 25% облигации."
+  },
+  {
+   "id": "C324",
+   "sid": "S48",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Любой класс активов занимает от 5% до 30% портфеля."
+  },
+  {
+   "id": "C325",
+   "sid": "S48",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Ипотека и налоги на жильё не более 20% дохода."
+  },
+  {
+   "id": "C326",
+   "sid": "S48",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не брать кредит на авто, технику и отпуск."
+  },
+  {
+   "id": "C327",
+   "sid": "S48",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Любое изменение долей или фондов — только после 3 месяцев ожидания."
+  },
+  {
+   "id": "C328",
+   "sid": "S49",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Полностью избегать кредитного плеча."
+  },
+  {
+   "id": "C329",
+   "sid": "S49",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не занимать для инвестиций (исключение — недвижимость)."
+  },
+  {
+   "id": "C330",
+   "sid": "S49",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Крипту покупать только на свободные деньги, на просадках, держать долго."
+  },
+  {
+   "id": "C331",
+   "sid": "S49",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Опционы только продавать (покрытые коллы), не покупать."
+  },
+  {
+   "id": "C332",
+   "sid": "S49",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Страйк проданного колла выше цены входа."
+  },
+  {
+   "id": "C333",
+   "sid": "S50",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "У компании должен быть широкий ров (бренд, технологии, сетевой эффект)."
+  },
+  {
+   "id": "C334",
+   "sid": "S50",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Бумага должна быть недооценена с учётом роста (PEG не выше 1)."
+  },
+  {
+   "id": "C335",
+   "sid": "S50",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Использовать стратегию с плечом: 250% акции / 150% трежерис."
+  },
+  {
+   "id": "C336",
+   "sid": "S50",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "Не покупать падающий тренд, ждать базы; резкие провалы покупать."
+  },
+  {
+   "id": "C337",
+   "sid": "S50",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "В распродаже покупать на страхе, продавать на жадности."
+  },
+  {
+   "id": "C338",
+   "sid": "S50",
+   "lang": "en",
+   "kind": "personal",
+   "paraphrase": "По фарме следить за продажами и покупками инсайдеров."
+  },
+  {
+   "id": "C339",
+   "sid": "S51",
+   "lang": "en",
+   "kind": "advice",
+   "paraphrase": "На счёте с плечом держать не более 10% всего портфеля."
+  },
+  {
+   "id": "C340",
+   "sid": "S51",
+   "lang": "en",
+   "kind": "advice",
+   "paraphrase": "Не использовать плечо, если риск не контролируется в каждой сделке."
+  },
+  {
+   "id": "C341",
+   "sid": "S51",
+   "lang": "en",
+   "kind": "advice",
+   "paraphrase": "Не использовать плечо, если трудно закрывать убыточные сделки."
+  },
+  {
+   "id": "C342",
+   "sid": "S51",
+   "lang": "en",
+   "kind": "advice",
+   "paraphrase": "С плечом начинать с малого размера."
+  }
+ ],
+ "checks": [
+  {
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1345677.php",
+   "opened": true,
+   "quotes_total": 6,
+   "quotes_found": 6,
+   "first_person": true
+  },
+  {
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1029886.php",
+   "opened": true,
+   "quotes_total": 7,
+   "quotes_found": 7,
+   "first_person": false
+  },
+  {
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1138426.php",
+   "opened": true,
+   "quotes_total": 4,
+   "quotes_found": 4,
+   "first_person": true
+  },
+  {
+   "collector": "smartlab",
+   "source_url": "https://smart-lab.ru/blog/1260187.php",
+   "opened": true,
+   "quotes_total": 6,
+   "quotes_found": 6,
+   "first_person": true
+  },
+  {
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/a-kak-invest-100mln-za-12-let/",
+   "opened": true,
+   "quotes_total": 12,
+   "quotes_found": 12,
+   "first_person": true
+  },
+  {
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/a-kak-invest-v-2012-i-prodolzhaiu/",
+   "opened": true,
+   "quotes_total": 13,
+   "quotes_found": 13,
+   "first_person": true
+  },
+  {
+   "collector": "vc_dzen",
+   "source_url": "https://t-j.ru/a-kak-invest-nephew/",
+   "opened": true,
+   "quotes_total": 10,
+   "quotes_found": 10,
+   "first_person": true
+  },
+  {
+   "collector": "vc_dzen",
+   "source_url": "https://vc.ru/money/174685-grows-sleduem-5-prostym-pravilam-investirovaniya-na-fondovom-rynke",
+   "opened": true,
+   "quotes_total": 4,
+   "quotes_found": 4,
+   "first_person": true
+  },
+  {
+   "collector": "forums",
+   "source_url": "https://www.bfm.ru/news/43330",
+   "opened": true,
+   "quotes_total": 13,
+   "quotes_found": 13,
+   "first_person": true
+  },
+  {
+   "collector": "forums",
+   "source_url": "https://smart-lab.ru/blog/1328002.php",
+   "opened": true,
+   "quotes_total": 6,
+   "quotes_found": 6,
+   "first_person": true
+  },
+  {
+   "collector": "forums",
+   "source_url": "https://t-j.ru/my-invest-rules-1/",
+   "opened": true,
+   "quotes_total": 3,
+   "quotes_found": 3,
+   "first_person": true
+  },
+  {
+   "collector": "forums",
+   "source_url": "https://arichlife.com.au/?p=31531",
+   "opened": true,
+   "quotes_total": 5,
+   "quotes_found": 5,
+   "first_person": true
+  },
+  {
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/1368577.php",
+   "opened": true,
+   "quotes_total": 11,
+   "quotes_found": 11,
+   "first_person": true
+  },
+  {
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/666016.php",
+   "opened": true,
+   "quotes_total": 7,
+   "quotes_found": 7,
+   "first_person": true
+  },
+  {
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/666424.php",
+   "opened": true,
+   "quotes_total": 7,
+   "quotes_found": 7,
+   "first_person": true
+  },
+  {
+   "collector": "ru_bonds_trading",
+   "source_url": "https://smart-lab.ru/blog/1250348.php",
+   "opened": true,
+   "quotes_total": 5,
+   "quotes_found": 5,
+   "first_person": true
+  },
+  {
+   "collector": "en_rules",
+   "source_url": "https://journeytototalfreedom.blogspot.com/p/my-rules-of-prudent-investing.html",
+   "opened": true,
+   "quotes_total": 13,
+   "quotes_found": 13,
+   "first_person": true
+  },
+  {
+   "collector": "en_rules",
+   "source_url": "https://forums.bearbulltraders.com/topic/377-post-your-list-of-trading-rules",
+   "opened": true,
+   "quotes_total": 9,
+   "quotes_found": 9,
+   "first_person": true
+  },
+  {
+   "collector": "en_rules",
+   "source_url": "https://www.whitecoatinvestor.com/how-to-write-an-investing-personal-statement/",
+   "opened": true,
+   "quotes_total": 6,
+   "quotes_found": 6,
+   "first_person": true
+  },
+  {
+   "collector": "en_rules",
+   "source_url": "https://tradingmeditations.substack.com/p/do-this-one-thing-and-treading-with-leverage",
+   "opened": true,
+   "quotes_total": 4,
+   "quotes_found": 4,
+   "first_person": true
+  }
+ ],
+ "passes": [
+  {
+   "p1": [
+    {
+     "id": "C1",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C2",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C3",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C4",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C5",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C6",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C7",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту: диапазон 3–15% облигационной части, верхняя граница зависит от рейтинга и типа эмитента",
+     "compound": false
+    },
+    {
+     "id": "C8",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту: число эмитентов в портфеле не более ~40",
+     "compound": false
+    },
+    {
+     "id": "C9",
+     "cat": "C",
+     "concept": "низкий кредитный рейтинг",
+     "compound": true
+    },
+    {
+     "id": "C10",
+     "cat": "B",
+     "predicate": "условие: рейтинг агентств A и ниже → срок до погашения не более 1 года",
+     "compound": false
+    },
+    {
+     "id": "C11",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C12",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C13",
+     "cat": "B",
+     "predicate": "окно больше дня: изменение доли класса активов за год не более 2% портфеля",
+     "compound": false
+    },
+    {
+     "id": "C14",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C15",
+     "cat": "B",
+     "predicate": "агрегация по пользовательской группе (сателлит) не более 10% портфеля",
+     "compound": false
+    },
+    {
+     "id": "C16",
+     "cat": "B",
+     "predicate": "абсолютный лимит стоимости позиции в рублях (50 тыс.)",
+     "compound": false
+    },
+    {
+     "id": "C17",
+     "cat": "B",
+     "predicate": "окно больше дня: число изменений портфеля за год не более 5–6",
+     "compound": false
+    },
+    {
+     "id": "C18",
+     "cat": "B",
+     "predicate": "относительный порог: изменение доли инструмента за одно изменение не более 0,5% портфеля",
+     "compound": false
+    },
+    {
+     "id": "C19",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C20",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C21",
+     "cat": "A",
+     "field": "F4",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C22",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C23",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C24",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C25",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C26",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C27",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C28",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C29",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C30",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C31",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C32",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C33",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C34",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C35",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C36",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C37",
+     "cat": "B",
+     "predicate": "целевая доля класса активов вне набора F15 (золото) 10%",
+     "compound": false
+    },
+    {
+     "id": "C38",
+     "cat": "B",
+     "predicate": "кредитный рейтинг агентств не ниже BB+; диверсификация по выпускам",
+     "compound": true
+    },
+    {
+     "id": "C39",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C40",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C41",
+     "cat": "B",
+     "predicate": "условие по истории владения: новый инструмент не более 1% средств",
+     "compound": false
+    },
+    {
+     "id": "C42",
+     "cat": "B",
+     "predicate": "срок владения: запрет наращивания новой позиции ранее чем через 1 год",
+     "compound": false
+    },
+    {
+     "id": "C43",
+     "cat": "B",
+     "predicate": "относительный порог: шаг наращивания позиции не более 1% портфеля",
+     "compound": false
+    },
+    {
+     "id": "C44",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C45",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C46",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C47",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C48",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C49",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C50",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C51",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C52",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C53",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C54",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C55",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C56",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C57",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C58",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C59",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C60",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C61",
+     "cat": "A",
+     "field": "F4",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C62",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C63",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C64",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C65",
+     "cat": "A",
+     "field": "F4",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C66",
+     "cat": "A",
+     "field": "F5",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C67",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C68",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C69",
+     "cat": "A",
+     "field": "F4",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C70",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C71",
+     "cat": "B",
+     "predicate": "производная метрика портфеля: доходность за расчётный период больше 2%",
+     "compound": false
+    },
+    {
+     "id": "C72",
+     "cat": "A",
+     "field": "F6",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C73",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C74",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C75",
+     "cat": "C",
+     "concept": "дивидендные акции",
+     "compound": false
+    },
+    {
+     "id": "C76",
+     "cat": "C",
+     "concept": "понятный бизнес",
+     "compound": true
+    },
+    {
+     "id": "C77",
+     "cat": "C",
+     "concept": "эмитенты, в которых уверен / вызывающие сомнения",
+     "compound": false
+    },
+    {
+     "id": "C78",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C79",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C80",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C81",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C82",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C83",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C84",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C85",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C86",
+     "cat": "C",
+     "concept": "дивидендные акции",
+     "compound": false
+    },
+    {
+     "id": "C87",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C88",
+     "cat": "B",
+     "predicate": "доля подкласса в облигационной части: ОФЗ по сроку до погашения (длинные) и купону около 12%",
+     "compound": false
+    },
+    {
+     "id": "C89",
+     "cat": "B",
+     "predicate": "доля подкласса в облигационной части: муниципальные по сроку до погашения (короткие)",
+     "compound": false
+    },
+    {
+     "id": "C90",
+     "cat": "C",
+     "concept": "мусорные облигации",
+     "compound": true
+    }
+   ],
+   "p2": [
+    {
+     "id": "C1",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C2",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": true,
+     "concept": "база (основная часть портфеля в облигациях); «с оглядкой» — поведенческая оговорка"
+    },
+    {
+     "id": "C3",
+     "cat": "E",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C4",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C5",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C6",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C7",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "агрегация по эмитенту; доля от облигационной части 3–15%; верхняя граница зависит от категории эмитента"
+    },
+    {
+     "id": "C8",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "состояние портфеля: число эмитентов ≤ ~40"
+    },
+    {
+     "id": "C9",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": true,
+     "concept": "низкий кредитный рейтинг"
+    },
+    {
+     "id": "C10",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "условие: кредитный рейтинг ≤ A → срок до погашения ≤ 1 года"
+    },
+    {
+     "id": "C11",
+     "cat": "E",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C12",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C13",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "окно — год: изменение доли класса активов ≤ 2% портфеля"
+    },
+    {
+     "id": "C14",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C15",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "агрегация по группе: сателлитная часть ≤ 10% портфеля"
+    },
+    {
+     "id": "C16",
+     "cat": "A",
+     "field": "F4",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C17",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "окно — год: число изменений портфеля ≤ 5–6"
+    },
+    {
+     "id": "C18",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "относительный порог: изменение доли инструмента за одно изменение ≤ 0,5% портфеля"
+    },
+    {
+     "id": "C19",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C20",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C21",
+     "cat": "A",
+     "field": "F4",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C22",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C23",
+     "cat": "E",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C24",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C25",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C26",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C27",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C28",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C29",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C30",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C31",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C32",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C33",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C34",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C35",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C36",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C37",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "агрегация по группе: целевая доля золота 10% (класс металлов вне F15)"
+    },
+    {
+     "id": "C38",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": true,
+     "predicate": "кредитный рейтинг агентств ≥ BB+ (плюс принцип диверсификации по выпускам)"
+    },
+    {
+     "id": "C39",
+     "cat": "E",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C40",
+     "cat": "E",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C41",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "условие по истории: новый для инвестора инструмент → доля ≤ 1%"
+    },
+    {
+     "id": "C42",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "срок владения: не наращивать позицию в новом инструменте раньше чем через год"
+    },
+    {
+     "id": "C43",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "относительный порог: шаг докупки ≤ 1% портфеля после срока ожидания"
+    },
+    {
+     "id": "C44",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C45",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C46",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C47",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C48",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C49",
+     "cat": "E",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C50",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C51",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C52",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C53",
+     "cat": "E",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C54",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C55",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C56",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C57",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C58",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C59",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C60",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C61",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "агрегация по эмитенту (порог не задан)"
+    },
+    {
+     "id": "C62",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C63",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C64",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C65",
+     "cat": "A",
+     "field": "F4",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C66",
+     "cat": "A",
+     "field": "F5",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C67",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C68",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "исключение из лимитов концентрации для инструментов денежного рынка (до 100%)"
+    },
+    {
+     "id": "C69",
+     "cat": "A",
+     "field": "F4",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C70",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C71",
+     "cat": "B",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "predicate": "производная метрика: ожидаемая доходность портфеля за расчётный период > 2%"
+    },
+    {
+     "id": "C72",
+     "cat": "A",
+     "field": "F6",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C73",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C74",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C75",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "concept": "дивидендные акции; «основная часть» портфеля"
+    },
+    {
+     "id": "C76",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": true,
+     "concept": "понятный бизнес (часть с рейтингом ≥ BBB− — тип B)"
+    },
+    {
+     "id": "C77",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "concept": "эмитенты, в которых уверен / вызывающие сомнения"
+    },
+    {
+     "id": "C78",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C79",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C80",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C81",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C82",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C83",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "concept": "незначительная часть капитала"
+    },
+    {
+     "id": "C84",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C85",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C86",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "concept": "дивидендные акции"
+    },
+    {
+     "id": "C87",
+     "cat": "D",
+     "field": "",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C88",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "concept": "длинные ОФЗ"
+    },
+    {
+     "id": "C89",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": false,
+     "concept": "короткие облигации"
+    },
+    {
+     "id": "C90",
+     "cat": "C",
+     "field": "",
+     "approx": false,
+     "compound": true,
+     "concept": "мусорные облигации"
+    }
+   ],
+   "adj": [
+    {
+     "id": "C2",
+     "cat": "C",
+     "concept": "база портфеля (доля без порога)",
+     "reason": "«База» — доля облигаций без порога: >50% или крупнейший класс — прочтения расходятся на реальном портфеле. «С оглядкой» — оговорка без своего правила."
+    },
+    {
+     "id": "C12",
+     "cat": "E",
+     "reason": "Предписание держать линкеры и флоатеры — что СДЕЛАТЬ, а не запрет; F8 флоатеры только запрещает. Конкретная обязанность по составу портфеля, не философия."
+    },
+    {
+     "id": "C16",
+     "cat": "B",
+     "predicate": "абсолютный лимит стоимости позиции, ₽",
+     "reason": "Абсолютный кап позиции в рублях: F4 — доля в %, дрейфует с капиталом; F3 — одна заявка, доборы её обходят. Нужна проверка «позиция + заявка ≤ 50 тыс.»."
+    },
+    {
+     "id": "C61",
+     "cat": "B",
+     "predicate": "агрегация доли по эмитенту",
+     "reason": "Явно «эмитент», а не бумага: сумма по всем бумагам эмитента (обычка, преф, выпуски облигаций). F4 считает одну бумагу — это агрегация по эмитенту из B."
+    },
+    {
+     "id": "C68",
+     "cat": "B",
+     "predicate": "исключение из лимитов долей для денежного рынка",
+     "reason": "Разрешение, а не лимит: смысл — снять для денежного рынка (фонды ДР, РЕПО) прочие лимиты долей. Класса «денежный рынок» в F15 нет, исключений форма не знает."
+    },
+    {
+     "id": "C83",
+     "cat": "C",
+     "concept": "незначительная часть капитала",
+     "reason": "Кап доли крипты, но «незначительная» без порога: 1%, 5% или 10% дадут разные решения на реальном портфеле. Ограничение структуры, не поведение — C, не D."
+    },
+    {
+     "id": "C88",
+     "cat": "C",
+     "concept": "длинные ОФЗ",
+     "reason": "Доля подкласса и купон ≈12% — это B, но «длинные» без порога (>5, >7 или >10 лет) по-разному делят реальные выпуски ОФЗ. Самая трудная часть — C."
+    },
+    {
+     "id": "C89",
+     "cat": "C",
+     "concept": "короткие облигации",
+     "reason": "Доля подкласса — B, но «короткие» без порога (<1 или <3 лет, погашение или оферта), «муниципальные» — с субфедеральными или без. Прочтения расходятся — C."
+    }
+   ]
+  },
+  {
+   "p1": [
+    {
+     "id": "C91",
+     "cat": "C",
+     "concept": "мусор (низкий рейтинг без порога)",
+     "compound": false
+    },
+    {
+     "id": "C92",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C93",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C94",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C95",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C96",
+     "cat": "B",
+     "predicate": "срок продукта (вклада) ≤ 6 мес — атрибут вне справочника брокера",
+     "compound": false
+    },
+    {
+     "id": "C97",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C98",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C99",
+     "cat": "B",
+     "predicate": "источник заявки/сервис: запрет автоследования",
+     "compound": false
+    },
+    {
+     "id": "C100",
+     "cat": "C",
+     "concept": "хайповые бумаги",
+     "compound": false
+    },
+    {
+     "id": "C101",
+     "cat": "B",
+     "predicate": "доля класса активов вне формы (криптовалюта) 1–5% от совокупных активов",
+     "compound": false
+    },
+    {
+     "id": "C102",
+     "cat": "B",
+     "predicate": "белый список активов вне справочника брокера (BTC, ETH, стейблкоины)",
+     "compound": false
+    },
+    {
+     "id": "C103",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C104",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C105",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C106",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C107",
+     "cat": "B",
+     "predicate": "условие по состоянию портфеля (новый эмитент) → лимит заявки 1 лот",
+     "compound": false
+    },
+    {
+     "id": "C108",
+     "cat": "B",
+     "predicate": "условие на корпоративное событие: рекомендация СД о дивидендах (российские эмитенты)",
+     "compound": false
+    },
+    {
+     "id": "C109",
+     "cat": "B",
+     "predicate": "тип заявки: запрет стоп-заявок",
+     "compound": false
+    },
+    {
+     "id": "C110",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C111",
+     "cat": "A",
+     "field": "F8",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C112",
+     "cat": "B",
+     "predicate": "производная метрика: НКД вблизи минимума / дни после выплаты купона (порог не задан)",
+     "compound": false
+    },
+    {
+     "id": "C113",
+     "cat": "B",
+     "predicate": "атрибут из данных: наличие дивидендных выплат эмитента / выплат дохода фондом",
+     "compound": false
+    },
+    {
+     "id": "C114",
+     "cat": "A",
+     "field": "F5",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C115",
+     "cat": "C",
+     "concept": "цель покупки: «на замену» / «для трейдинга»",
+     "compound": false
+    },
+    {
+     "id": "C116",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C117",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C118",
+     "cat": "B",
+     "predicate": "условие по состоянию портфеля: шорт только при наличии длинной позиции в той же бумаге",
+     "compound": false
+    },
+    {
+     "id": "C119",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C120",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C121",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C122",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C123",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C124",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C125",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C126",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C127",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C128",
+     "cat": "A",
+     "field": "F7",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C129",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C130",
+     "cat": "C",
+     "concept": "потенциал роста (целевая цена не определена)",
+     "compound": false
+    },
+    {
+     "id": "C131",
+     "cat": "C",
+     "concept": "потенциал падения («небольшой»)",
+     "compound": false
+    },
+    {
+     "id": "C132",
+     "cat": "B",
+     "predicate": "производная метрика из рыночных данных: годовая волатильность > 100%",
+     "compound": false
+    },
+    {
+     "id": "C133",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C134",
+     "cat": "B",
+     "predicate": "производная метрика: цена относительно исторического максимума",
+     "compound": false
+    },
+    {
+     "id": "C135",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C136",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C137",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C138",
+     "cat": "C",
+     "concept": "движение уже произошло на верхних ярусах (перегретость)",
+     "compound": false
+    },
+    {
+     "id": "C139",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C140",
+     "cat": "C",
+     "concept": "разворот цены наверх / падающая бумага",
+     "compound": false
+    },
+    {
+     "id": "C141",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C142",
+     "cat": "B",
+     "predicate": "атрибут эмитента (страна — РФ) с привязкой к конкретному счёту (ИИС)",
+     "compound": false
+    },
+    {
+     "id": "C143",
+     "cat": "B",
+     "predicate": "запрет неторговой операции: вывод средств с ИИС",
+     "compound": false
+    },
+    {
+     "id": "C144",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C145",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C146",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C147",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C148",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C149",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C150",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C151",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C152",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C153",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C154",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C155",
+     "cat": "C",
+     "concept": "начальный этап (база — все средства вне счёта)",
+     "compound": false
+    },
+    {
+     "id": "C156",
+     "cat": "B",
+     "predicate": "число позиций в портфеле 10–15 (условие: вложения в онлайн-проекты)",
+     "compound": false
+    },
+    {
+     "id": "C157",
+     "cat": "B",
+     "predicate": "равенство сумм вложений между позициями",
+     "compound": false
+    },
+    {
+     "id": "C158",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C159",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C160",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C161",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C162",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C163",
+     "cat": "A",
+     "field": "F1",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C164",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C165",
+     "cat": "B",
+     "predicate": "оборот с порогом: среднедневной оборот ≥ 1 млн руб. + листинг на ММВБ",
+     "compound": true
+    },
+    {
+     "id": "C166",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C167",
+     "cat": "B",
+     "predicate": "доля класса активов вне F15 (срочный рынок) ≤ 30%; мера доли (ГО/номинал) требует определения",
+     "compound": false
+    },
+    {
+     "id": "C168",
+     "cat": "B",
+     "predicate": "доля субпортфеля 33,3% от первоначального капитала (фиксированная историческая база), разметка субпортфелей",
+     "compound": false
+    },
+    {
+     "id": "C169",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C170",
+     "cat": "B",
+     "predicate": "число бумаг в субпортфеле: 1–20",
+     "compound": false
+    },
+    {
+     "id": "C171",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C172",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C173",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C174",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C175",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C176",
+     "cat": "B",
+     "predicate": "риск позиции (убыток до стопа) < 3% капитала, только для спекулятивных позиций",
+     "compound": false
+    },
+    {
+     "id": "C177",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту + денежные лимиты позиции по группам эмитентов (пользовательская классификация)",
+     "compound": false
+    },
+    {
+     "id": "C178",
+     "cat": "B",
+     "predicate": "состояние портфеля: абсолютный лимит заёмных средств 3 млн руб.",
+     "compound": false
+    },
+    {
+     "id": "C179",
+     "cat": "B",
+     "predicate": "относительный лимит плеча: заёмные/собственные ≤ 0,30",
+     "compound": false
+    },
+    {
+     "id": "C180",
+     "cat": "E",
+     "compound": false
+    }
+   ],
+   "p2": [
+    {
+     "id": "C91",
+     "cat": "C",
+     "concept": "мусорные облигации (мусорный рейтинг)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C92",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C93",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C94",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C95",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C96",
+     "cat": "B",
+     "predicate": "срок продукта: вклад не дольше 6 мес (продукт вне справочника брокера)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C97",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C98",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C99",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C100",
+     "cat": "C",
+     "concept": "хайповые бумаги",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C101",
+     "cat": "B",
+     "predicate": "доля класса активов вне формы (крипта) 1–5% от всех активов",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C102",
+     "cat": "B",
+     "predicate": "белый список активов вне справочника брокера (криптовалюты)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C103",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C104",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C105",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C106",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C107",
+     "cat": "B",
+     "predicate": "условие по состоянию портфеля: новый эмитент (нет в портфеле) — не более 1 лота",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C108",
+     "cat": "B",
+     "predicate": "условие по корпоративному событию: есть рекомендация СД по дивидендам (акции РФ)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C109",
+     "cat": "B",
+     "predicate": "тип заявки: запрет стоп-заявок",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C110",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C111",
+     "cat": "A",
+     "field": "F8",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C112",
+     "cat": "B",
+     "predicate": "производная метрика: НКД около минимума (сразу после купона), порог не задан",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C113",
+     "cat": "B",
+     "predicate": "производная метрика: факт выплаты дивидендов эмитентом; тип фонда (с выплатой дохода)",
+     "approx": false,
+     "compound": true
+    },
+    {
+     "id": "C114",
+     "cat": "A",
+     "field": "F5",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C115",
+     "cat": "C",
+     "concept": "покупка «на замену» / «для трейдинга» (цель сделки)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C116",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C117",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C118",
+     "cat": "B",
+     "predicate": "условие по состоянию портфеля: шорт только по бумагам, уже имеющимся в портфеле",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C119",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C120",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C121",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C122",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C123",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C124",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C125",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C126",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C127",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C128",
+     "cat": "A",
+     "field": "F7",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C129",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C130",
+     "cat": "C",
+     "concept": "потенциал роста",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C131",
+     "cat": "C",
+     "concept": "потенциал падения (небольшой)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C132",
+     "cat": "B",
+     "predicate": "производная метрика: годовая волатильность выше 100%",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C133",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C134",
+     "cat": "B",
+     "predicate": "производная метрика: цена относительно исторического максимума",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C135",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C136",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C137",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C138",
+     "cat": "C",
+     "concept": "движение уже произошло на верхних ярусах (перегретость)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C139",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C140",
+     "cat": "C",
+     "concept": "разворот цены вверх",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C141",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C142",
+     "cat": "B",
+     "predicate": "атрибут эмитента: страна РФ, ограничение в пределах счёта ИИС",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C143",
+     "cat": "B",
+     "predicate": "запрет неторговой операции: вывод средств с ИИС",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C144",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C145",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C146",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C147",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C148",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C149",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C150",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C151",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C152",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C153",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C154",
+     "cat": "D",
+     "approx": false,
+     "compound": true
+    },
+    {
+     "id": "C155",
+     "cat": "B",
+     "predicate": "доля от всех средств инвестора (капитал вне счёта) + временное окно «начальный этап»",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C156",
+     "cat": "B",
+     "predicate": "число позиций в портфеле 10–15 (класс вне брокера: онлайн-проекты)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C157",
+     "cat": "B",
+     "predicate": "равновзвешенность: одинаковая сумма на каждую позицию (относительное ограничение)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C158",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C159",
+     "cat": "D",
+     "approx": false,
+     "compound": true
+    },
+    {
+     "id": "C160",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C161",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C162",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C163",
+     "cat": "A",
+     "field": "F1",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C164",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C165",
+     "cat": "B",
+     "predicate": "производная метрика: среднедневной оборот не менее 1 млн руб. + площадка ММВБ",
+     "approx": false,
+     "compound": true
+    },
+    {
+     "id": "C166",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C167",
+     "cat": "B",
+     "predicate": "доля класса «срочный рынок» не более 30% (класса нет в F15)",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C168",
+     "cat": "B",
+     "predicate": "доля подпортфеля (спекулятивная часть) от первоначального капитала",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C169",
+     "cat": "C",
+     "concept": "диверсификация по отраслям (порог не задан)",
+     "approx": false,
+     "compound": true
+    },
+    {
+     "id": "C170",
+     "cat": "B",
+     "predicate": "число бумаг в подпортфеле (инвестиционная часть) 1–20",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C171",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C172",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C173",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C174",
+     "cat": "D",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C175",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C176",
+     "cat": "B",
+     "predicate": "риск позиции (убыток до стопа) менее 3% — параметры/состояние позиции",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C177",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту + денежный лимит позиции по рейтинговой группе",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C178",
+     "cat": "B",
+     "predicate": "абсолютный лимит заёмных средств (плечо не более 3 млн руб.) — состояние портфеля",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C179",
+     "cat": "B",
+     "predicate": "относительный лимит плеча: заёмные/собственные не более 0,30",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C180",
+     "cat": "E",
+     "approx": false,
+     "compound": false
+    }
+   ],
+   "adj": [
+    {
+     "id": "C99",
+     "cat": "B",
+     "predicate": "источник заявки/подписка: запрет заявок и подключения стратегии автоследования",
+     "reason": "Бинарный запрет, проверяемый брокером по источнику заявки/подписке на стратегию; в F1–F15 поля нет. Не D: это не поведение, а проверяемое условие."
+    },
+    {
+     "id": "C155",
+     "cat": "C",
+     "concept": "«начальный этап» (граница не задана); база «ваши средства» вне счёта и неоднозначна",
+     "reason": "Порог 10% точен, но «начальный этап» без границы, а база «ваши средства» вне счёта и двусмысленна (счёт или все сбережения); прочтения расходятся."
+    },
+    {
+     "id": "C169",
+     "cat": "D",
+     "reason": "Составной: 25% на бумагу = F4, но «диверсификация по отраслям» — принцип без порога и критерия (как «держу долго»); решаем по сложной части."
+    }
+   ]
+  },
+  {
+   "p1": [
+    {
+     "id": "C181",
+     "cat": "B",
+     "predicate": "условное разрешение плеча: просадка рыночного индекса на 10–30% от локального максимума",
+     "compound": false
+    },
+    {
+     "id": "C182",
+     "cat": "B",
+     "predicate": "минимальный размер позиции (абсолютная сумма, выше 100 тыс. руб.)",
+     "compound": false
+    },
+    {
+     "id": "C183",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C184",
+     "cat": "C",
+     "concept": "джанки (мусорные / высокодоходные облигации)",
+     "compound": false
+    },
+    {
+     "id": "C185",
+     "cat": "C",
+     "concept": "рискованные бумаги (джанки) с лимитом доли 10–20%",
+     "compound": false
+    },
+    {
+     "id": "C186",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C187",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C188",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C189",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C190",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C191",
+     "cat": "C",
+     "concept": "слишком дорогие (переоценённые) бумаги",
+     "compound": false
+    },
+    {
+     "id": "C192",
+     "cat": "B",
+     "predicate": "атрибут эмитента: иностранная страна (зарубежные акции)",
+     "compound": false
+    },
+    {
+     "id": "C193",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C194",
+     "cat": "C",
+     "concept": "тренд (торговля против тренда)",
+     "compound": false
+    },
+    {
+     "id": "C195",
+     "cat": "C",
+     "concept": "хорошая цена покупки и сильные фундаментальные показатели",
+     "compound": false
+    },
+    {
+     "id": "C196",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C197",
+     "cat": "B",
+     "predicate": "агрегация доли по эмитенту (все инструменты) не более 10%",
+     "compound": false
+    },
+    {
+     "id": "C198",
+     "cat": "A",
+     "field": "F2",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C199",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C200",
+     "cat": "B",
+     "predicate": "максимальное число компаний (позиций) в портфеле меньше 20",
+     "compound": false
+    },
+    {
+     "id": "C201",
+     "cat": "B",
+     "predicate": "абсолютный лимит суммарных вложений в новую позицию £6667 (агрегация заявок); транш £2500 — F3",
+     "compound": true
+    },
+    {
+     "id": "C202",
+     "cat": "B",
+     "predicate": "лимит докупки £2000 в уже полную позицию (состояние позиции + агрегация заявок)",
+     "compound": false
+    },
+    {
+     "id": "C203",
+     "cat": "B",
+     "predicate": "цена заявки не выше 1,15 × справедливая цена (оценка инвестора по бумаге)",
+     "compound": false
+    },
+    {
+     "id": "C204",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C205",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C206",
+     "cat": "B",
+     "predicate": "абсолютный лимит вложений в класс актива (крипто не более £1000)",
+     "compound": false
+    },
+    {
+     "id": "C207",
+     "cat": "A",
+     "field": "F1",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C208",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C209",
+     "cat": "A",
+     "field": "F1",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C210",
+     "cat": "A",
+     "field": "F1",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C211",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C212",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C213",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C214",
+     "cat": "B",
+     "predicate": "многоуровневый лимит доли позиции с исключениями (по умолчанию 5,5%, обычно до 11%)",
+     "compound": true
+    },
+    {
+     "id": "C215",
+     "cat": "B",
+     "predicate": "доля выше 8% только при внутренней оценке бумаги не ниже 4/5 (условие)",
+     "compound": false
+    },
+    {
+     "id": "C216",
+     "cat": "B",
+     "predicate": "доля выше 11% только при внутренней оценке 5/5 (условие)",
+     "compound": false
+    },
+    {
+     "id": "C217",
+     "cat": "A",
+     "field": "F4",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C218",
+     "cat": "C",
+     "concept": "сильно переоценённая бумага; сильно завышенная позиция",
+     "compound": false
+    },
+    {
+     "id": "C219",
+     "cat": "B",
+     "predicate": "запрет докупки в позицию с нереализованным убытком",
+     "compound": false
+    },
+    {
+     "id": "C220",
+     "cat": "B",
+     "predicate": "запрет усреднения вниз крупной убыточной позиции",
+     "compound": false
+    },
+    {
+     "id": "C221",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C222",
+     "cat": "B",
+     "predicate": "дифференцированные лимиты долей по отраслям (свой лимит 5–50% для каждой)",
+     "compound": false
+    },
+    {
+     "id": "C223",
+     "cat": "B",
+     "predicate": "лимит доли конкретной группы: облигации банков не более 5%",
+     "compound": false
+    },
+    {
+     "id": "C224",
+     "cat": "B",
+     "predicate": "лимит доли в зависимости от кредитного рейтинга",
+     "compound": false
+    },
+    {
+     "id": "C225",
+     "cat": "B",
+     "predicate": "лимит доли группы бумаг с рейтингом 15 не более 35%",
+     "compound": false
+    },
+    {
+     "id": "C226",
+     "cat": "B",
+     "predicate": "минимальный кредитный рейтинг (не ниже 16)",
+     "compound": false
+    },
+    {
+     "id": "C227",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C228",
+     "cat": "B",
+     "predicate": "число эмитентов в портфеле по каждой отрасли и рейтингу",
+     "compound": false
+    },
+    {
+     "id": "C229",
+     "cat": "A",
+     "field": "F2",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C230",
+     "cat": "B",
+     "predicate": "минимальная доходность к погашению / оферте",
+     "compound": false
+    },
+    {
+     "id": "C231",
+     "cat": "A",
+     "field": "F12",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C232",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C233",
+     "cat": "B",
+     "predicate": "максимальное число одновременно открытых позиций (4)",
+     "compound": false
+    },
+    {
+     "id": "C234",
+     "cat": "B",
+     "predicate": "серия из 3 убыточных сделок → блокировка торговли до конца дня",
+     "compound": false
+    },
+    {
+     "id": "C235",
+     "cat": "B",
+     "predicate": "серия из 5 убыточных сделок → блокировка торговли до конца недели",
+     "compound": false
+    },
+    {
+     "id": "C236",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C237",
+     "cat": "B",
+     "predicate": "просадка 5% за неделю → блокировка торговли до конца недели",
+     "compound": false
+    },
+    {
+     "id": "C238",
+     "cat": "E",
+     "compound": true
+    },
+    {
+     "id": "C239",
+     "cat": "B",
+     "predicate": "просадка 10% за месяц → блокировка торговли до конца месяца",
+     "compound": false
+    },
+    {
+     "id": "C240",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C241",
+     "cat": "B",
+     "predicate": "событие ручного снятия стоп-заявки → блокировка торговли на день",
+     "compound": false
+    },
+    {
+     "id": "C242",
+     "cat": "B",
+     "predicate": "агрегация доли по эмитенту не более 3%",
+     "compound": false
+    },
+    {
+     "id": "C243",
+     "cat": "E",
+     "compound": true
+    },
+    {
+     "id": "C244",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C245",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C246",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C247",
+     "cat": "A",
+     "field": "F15",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C248",
+     "cat": "B",
+     "predicate": "доля группы бумаг, купленных на IPO, не более 20%",
+     "compound": false
+    },
+    {
+     "id": "C249",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C250",
+     "cat": "B",
+     "predicate": "G-спред к ОФЗ (1–1,5% как норма)",
+     "compound": false
+    },
+    {
+     "id": "C251",
+     "cat": "B",
+     "predicate": "G-спред к ОФЗ выше 3% (сигнал риска)",
+     "compound": false
+    },
+    {
+     "id": "C252",
+     "cat": "B",
+     "predicate": "агрегация доли по эмитенту облигаций не более 3%",
+     "compound": false
+    },
+    {
+     "id": "C253",
+     "cat": "B",
+     "predicate": "исключение ОФЗ из лимита на эмитента",
+     "compound": false
+    },
+    {
+     "id": "C254",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C255",
+     "cat": "B",
+     "predicate": "диапазон кредитного рейтинга агентств BB-…AA- (с редкими исключениями)",
+     "compound": false
+    },
+    {
+     "id": "C256",
+     "cat": "B",
+     "predicate": "минимальный рейтинг BBB- для эмитентов, лично не знакомых инвестору (условие)",
+     "compound": false
+    },
+    {
+     "id": "C257",
+     "cat": "B",
+     "predicate": "диапазон дюрации облигации 0,5–2 года",
+     "compound": false
+    },
+    {
+     "id": "C258",
+     "cat": "B",
+     "predicate": "минимальный объём выпуска 300–500 млн руб.",
+     "compound": false
+    },
+    {
+     "id": "C259",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту 2–3% + лимит на выпуск 1,5–2,5% (F4)",
+     "compound": true
+    },
+    {
+     "id": "C260",
+     "cat": "B",
+     "predicate": "лимит убытка за неделю 4% депозита",
+     "compound": false
+    },
+    {
+     "id": "C261",
+     "cat": "B",
+     "predicate": "достижение недельного лимита убытка → блокировка торговли до понедельника",
+     "compound": false
+    },
+    {
+     "id": "C262",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C263",
+     "cat": "B",
+     "predicate": "кулдаун 1 час по инструменту после убыточной сделки",
+     "compound": false
+    },
+    {
+     "id": "C264",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C265",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C266",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C267",
+     "cat": "B",
+     "predicate": "абсолютный лимит стоимости позиции около 300 тыс. руб. (с исключениями)",
+     "compound": false
+    },
+    {
+     "id": "C268",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C269",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C270",
+     "cat": "B",
+     "predicate": "доля подгруппы (акции США) внутри класса акций 20–30%",
+     "compound": false
+    }
+   ],
+   "p2": [
+    {
+     "id": "C181",
+     "cat": "B",
+     "predicate": "условие по состоянию рынка: плечо только при просадке индекса на 10–30% от локального максимума"
+    },
+    {
+     "id": "C182",
+     "cat": "B",
+     "predicate": "минимальный размер позиции (нижний порог в рублях)"
+    },
+    {
+     "id": "C183",
+     "cat": "D"
+    },
+    {
+     "id": "C184",
+     "cat": "C",
+     "concept": "джанки (мусорные облигации)"
+    },
+    {
+     "id": "C185",
+     "cat": "C",
+     "concept": "рискованные бумаги (джанки)"
+    },
+    {
+     "id": "C186",
+     "cat": "D"
+    },
+    {
+     "id": "C187",
+     "cat": "D"
+    },
+    {
+     "id": "C188",
+     "cat": "D"
+    },
+    {
+     "id": "C189",
+     "cat": "E"
+    },
+    {
+     "id": "C190",
+     "cat": "E"
+    },
+    {
+     "id": "C191",
+     "cat": "C",
+     "concept": "слишком дорогая (переоценённая) бумага"
+    },
+    {
+     "id": "C192",
+     "cat": "B",
+     "predicate": "атрибут эмитента: страна (запрет иностранных акций)"
+    },
+    {
+     "id": "C193",
+     "cat": "D"
+    },
+    {
+     "id": "C194",
+     "cat": "C",
+     "concept": "тренд"
+    },
+    {
+     "id": "C195",
+     "cat": "C",
+     "concept": "хорошая цена покупки, сильные фундаментальные показатели"
+    },
+    {
+     "id": "C196",
+     "cat": "D"
+    },
+    {
+     "id": "C197",
+     "cat": "A",
+     "field": "F4",
+     "approx": true
+    },
+    {
+     "id": "C198",
+     "cat": "A",
+     "field": "F2",
+     "approx": true
+    },
+    {
+     "id": "C199",
+     "cat": "D"
+    },
+    {
+     "id": "C200",
+     "cat": "B",
+     "predicate": "число позиций (компаний) в портфеле"
+    },
+    {
+     "id": "C201",
+     "cat": "B",
+     "compound": true,
+     "predicate": "накопленный абсолютный лимит вложений в новую позицию (транш до £2500 — F3)"
+    },
+    {
+     "id": "C202",
+     "cat": "B",
+     "predicate": "состояние позиции (полная) + накопленный лимит докупки"
+    },
+    {
+     "id": "C203",
+     "cat": "B",
+     "predicate": "цена относительно справедливой оценки инвестора (пользовательский параметр, +15%)"
+    },
+    {
+     "id": "C204",
+     "cat": "E"
+    },
+    {
+     "id": "C205",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C206",
+     "cat": "B",
+     "predicate": "абсолютный лимит на класс активов (крипто) с условием срока действия"
+    },
+    {
+     "id": "C207",
+     "cat": "A",
+     "field": "F1",
+     "approx": false
+    },
+    {
+     "id": "C208",
+     "cat": "A",
+     "field": "F6",
+     "approx": false
+    },
+    {
+     "id": "C209",
+     "cat": "A",
+     "field": "F1",
+     "approx": false
+    },
+    {
+     "id": "C210",
+     "cat": "A",
+     "field": "F1",
+     "approx": false
+    },
+    {
+     "id": "C211",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C212",
+     "cat": "D"
+    },
+    {
+     "id": "C213",
+     "cat": "D"
+    },
+    {
+     "id": "C214",
+     "cat": "B",
+     "compound": true,
+     "predicate": "многоуровневые лимиты доли позиции с исключениями"
+    },
+    {
+     "id": "C215",
+     "cat": "B",
+     "predicate": "условный лимит доли: свыше 8% только при внутренней оценке не ниже 4/5"
+    },
+    {
+     "id": "C216",
+     "cat": "B",
+     "predicate": "условный лимит доли: свыше 11% только при внутренней оценке 5/5"
+    },
+    {
+     "id": "C217",
+     "cat": "A",
+     "field": "F4",
+     "approx": false
+    },
+    {
+     "id": "C218",
+     "cat": "C",
+     "concept": "сильно переоценённая бумага, сильно завышенная позиция"
+    },
+    {
+     "id": "C219",
+     "cat": "B",
+     "predicate": "убыток позиции: запрет докупки"
+    },
+    {
+     "id": "C220",
+     "cat": "B",
+     "predicate": "убыток и размер позиции: запрет усреднения крупной позиции"
+    },
+    {
+     "id": "C221",
+     "cat": "E"
+    },
+    {
+     "id": "C222",
+     "cat": "B",
+     "predicate": "дифференцированные лимиты доли по отраслям"
+    },
+    {
+     "id": "C223",
+     "cat": "B",
+     "predicate": "агрегированная доля группы (отрасль × тип): банковские облигации не более 5%"
+    },
+    {
+     "id": "C224",
+     "cat": "B",
+     "predicate": "лимит доли зависит от кредитного рейтинга"
+    },
+    {
+     "id": "C225",
+     "cat": "B",
+     "predicate": "агрегированная доля рейтинговой группы не более 35%"
+    },
+    {
+     "id": "C226",
+     "cat": "B",
+     "predicate": "порог кредитного рейтинга"
+    },
+    {
+     "id": "C227",
+     "cat": "E"
+    },
+    {
+     "id": "C228",
+     "cat": "B",
+     "predicate": "число эмитентов в разрезе отрасли и рейтинга"
+    },
+    {
+     "id": "C229",
+     "cat": "A",
+     "field": "F2",
+     "approx": false
+    },
+    {
+     "id": "C230",
+     "cat": "B",
+     "predicate": "доходность к погашению/оферте не ниже порога"
+    },
+    {
+     "id": "C231",
+     "cat": "C",
+     "concept": "аномально низкая цена покупки"
+    },
+    {
+     "id": "C232",
+     "cat": "E"
+    },
+    {
+     "id": "C233",
+     "cat": "B",
+     "predicate": "число одновременно открытых позиций не более 4"
+    },
+    {
+     "id": "C234",
+     "cat": "B",
+     "predicate": "серия убыточных сделок → запрет торговли до конца дня"
+    },
+    {
+     "id": "C235",
+     "cat": "B",
+     "predicate": "серия убыточных сделок → запрет торговли до конца недели"
+    },
+    {
+     "id": "C236",
+     "cat": "E"
+    },
+    {
+     "id": "C237",
+     "cat": "B",
+     "predicate": "просадка за неделю → запрет торговли до конца недели"
+    },
+    {
+     "id": "C238",
+     "cat": "E",
+     "compound": true
+    },
+    {
+     "id": "C239",
+     "cat": "B",
+     "predicate": "просадка за месяц → запрет торговли до конца месяца"
+    },
+    {
+     "id": "C240",
+     "cat": "E"
+    },
+    {
+     "id": "C241",
+     "cat": "B",
+     "predicate": "событие (ручное снятие стоп-лосса) → запрет торговли на день"
+    },
+    {
+     "id": "C242",
+     "cat": "A",
+     "field": "F4",
+     "approx": true
+    },
+    {
+     "id": "C243",
+     "cat": "E",
+     "compound": true
+    },
+    {
+     "id": "C244",
+     "cat": "D"
+    },
+    {
+     "id": "C245",
+     "cat": "A",
+     "field": "F15",
+     "approx": false
+    },
+    {
+     "id": "C246",
+     "cat": "A",
+     "field": "F15",
+     "approx": false
+    },
+    {
+     "id": "C247",
+     "cat": "A",
+     "field": "F15",
+     "approx": false
+    },
+    {
+     "id": "C248",
+     "cat": "B",
+     "predicate": "агрегированная доля группы (бумаги IPO)"
+    },
+    {
+     "id": "C249",
+     "cat": "D"
+    },
+    {
+     "id": "C250",
+     "cat": "D"
+    },
+    {
+     "id": "C251",
+     "cat": "D"
+    },
+    {
+     "id": "C252",
+     "cat": "A",
+     "field": "F4",
+     "approx": true
+    },
+    {
+     "id": "C253",
+     "cat": "B",
+     "predicate": "исключение (ОФЗ) из лимита на эмитента"
+    },
+    {
+     "id": "C254",
+     "cat": "D"
+    },
+    {
+     "id": "C255",
+     "cat": "B",
+     "predicate": "кредитный рейтинг агентств: диапазон BB-…AA- с редкими исключениями"
+    },
+    {
+     "id": "C256",
+     "cat": "B",
+     "predicate": "условие (личное знакомство с эмитентом) + порог кредитного рейтинга"
+    },
+    {
+     "id": "C257",
+     "cat": "B",
+     "predicate": "дюрация в диапазоне 0,5–2 года"
+    },
+    {
+     "id": "C258",
+     "cat": "B",
+     "predicate": "объём выпуска не менее 300–500 млн руб."
+    },
+    {
+     "id": "C259",
+     "cat": "B",
+     "compound": true,
+     "predicate": "агрегация по эмитенту + отдельный лимит на выпуск"
+    },
+    {
+     "id": "C260",
+     "cat": "B",
+     "predicate": "лимит убытка за неделю"
+    },
+    {
+     "id": "C261",
+     "cat": "B",
+     "predicate": "достижение лимита убытка → запрет торговли до понедельника"
+    },
+    {
+     "id": "C262",
+     "cat": "E"
+    },
+    {
+     "id": "C263",
+     "cat": "B",
+     "predicate": "убыток по инструменту → запрет торговли им в течение часа"
+    },
+    {
+     "id": "C264",
+     "cat": "D"
+    },
+    {
+     "id": "C265",
+     "cat": "E"
+    },
+    {
+     "id": "C266",
+     "cat": "D"
+    },
+    {
+     "id": "C267",
+     "cat": "B",
+     "predicate": "абсолютный лимит позиции в рублях с исключениями"
+    },
+    {
+     "id": "C268",
+     "cat": "E"
+    },
+    {
+     "id": "C269",
+     "cat": "A",
+     "field": "F15",
+     "approx": true
+    },
+    {
+     "id": "C270",
+     "cat": "B",
+     "predicate": "доля акций одной страны (США) внутри класса акций"
+    }
+   ],
+   "adj": [
+    {
+     "id": "C197",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту: сумма всех его бумаг (выпуски облигаций, акции) ≤ 10% портфеля",
+     "reason": "Лимит УК на эмитента в облигационных фондах (ВДО): у эмитента обычно много выпусков, дефолт общий; F4 «на бумагу» пропустит 10%×N — нужна агрегация."
+    },
+    {
+     "id": "C231",
+     "cat": "C",
+     "concept": "аномально низкая цена покупки",
+     "reason": "Порога «аномально низкой» цены нет, и не продаётся лишь «часть» таких лотов; F12 запрещает тикер целиком. Разные прочтения заблокируют разные лоты."
+    },
+    {
+     "id": "C242",
+     "cat": "A",
+     "field": "F4",
+     "approx": true,
+     "reason": "Автор поясняет: это лимит доли компании, 3% на эмитента — пример таксономии «в одну компанию»→F4; префы и облигации эмитента не суммируются."
+    },
+    {
+     "id": "C244",
+     "cat": "D",
+     "reason": "Тактика входа частями с докупкой на снижении: плановый размер позиции неизвестен, заявку не проверить; манера покупки, как «покупаю на просадках»."
+    },
+    {
+     "id": "C250",
+     "cat": "D",
+     "reason": "Эвристика оценки надёжности по G-спреду в методике отбора: ничего не запрещает и не предписывает (о спреде 1,5–3% молчит) — процесс анализа."
+    },
+    {
+     "id": "C251",
+     "cat": "D",
+     "reason": "«Причина задуматься» — сигнал к анализу, а не запрет или операция по счёту; превращать G-спред >3% в блок значит исказить мягкий смысл."
+    },
+    {
+     "id": "C252",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту: сумма всех выпусков облигаций эмитента ≤ 3% портфеля",
+     "reason": "Лимит обоснован дефолтом: обнуляются все выпуски эмитента разом. F4 «на бумагу» допустит 3% в каждый выпуск — цель теряется; нужна агрегация."
+    },
+    {
+     "id": "C266",
+     "cat": "D",
+     "reason": "Вход 1/8–2/4 позиции «почти всегда» — привычка, а не жёсткое правило; плановый размер позиции шлюзу неизвестен. Тактика входа, не обязанность."
+    }
+   ]
+  },
+  {
+   "p1": [
+    {
+     "id": "C271",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C272",
+     "cat": "A",
+     "field": "F12",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C273",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C274",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C275",
+     "cat": "A",
+     "field": "F5",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C276",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту (все выпуски одного эмитента не более 15%)",
+     "compound": false
+    },
+    {
+     "id": "C277",
+     "cat": "A",
+     "field": "F13",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C278",
+     "cat": "B",
+     "predicate": "доля портфеля по кредитному рейтингу агентств (не ниже A- не менее 90%)",
+     "compound": false
+    },
+    {
+     "id": "C279",
+     "cat": "B",
+     "predicate": "лимит доли валютных активов (агрегация по валюте) не выше текущей",
+     "compound": false
+    },
+    {
+     "id": "C280",
+     "cat": "B",
+     "predicate": "лимит доли по номинальной экспозиции только для фьючерсов (F4 общий для всех бумаг и конфликтует с LQDT 95%)",
+     "compound": false
+    },
+    {
+     "id": "C281",
+     "cat": "B",
+     "predicate": "условный лимит доли инструмента в зависимости от режима волатильности",
+     "compound": false
+    },
+    {
+     "id": "C282",
+     "cat": "B",
+     "predicate": "условный лимит доли инструмента в зависимости от режима волатильности",
+     "compound": false
+    },
+    {
+     "id": "C283",
+     "cat": "B",
+     "predicate": "целевые доли конкретного инструмента и группы инструментов (валютный блок)",
+     "compound": true
+    },
+    {
+     "id": "C284",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C285",
+     "cat": "B",
+     "predicate": "состояние портфеля: совокупный риск открытых позиций по стопам выше 6% запрещает новые позиции",
+     "compound": false
+    },
+    {
+     "id": "C286",
+     "cat": "B",
+     "predicate": "лимит убытка за месяц, после него запрет торговли до конца месяца",
+     "compound": false
+    },
+    {
+     "id": "C287",
+     "cat": "B",
+     "predicate": "риск на сделку по стопу 2% и совокупный риск 6% от капитала на начало месяца",
+     "compound": true
+    },
+    {
+     "id": "C288",
+     "cat": "B",
+     "predicate": "состояние портфеля: просадка счёта не более 10%",
+     "compound": false
+    },
+    {
+     "id": "C289",
+     "cat": "A",
+     "field": "F4,F5",
+     "approx": true,
+     "compound": true
+    },
+    {
+     "id": "C290",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C291",
+     "cat": "C",
+     "concept": "чрезмерная маржа (excessive margins)",
+     "compound": true
+    },
+    {
+     "id": "C292",
+     "cat": "C",
+     "concept": "пенни-стоки (penny stocks)",
+     "compound": true
+    },
+    {
+     "id": "C293",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C294",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C295",
+     "cat": "E",
+     "compound": true
+    },
+    {
+     "id": "C296",
+     "cat": "C",
+     "concept": "все рынки сильно переоценены (vastly overvalued)",
+     "compound": false
+    },
+    {
+     "id": "C297",
+     "cat": "C",
+     "concept": "низкий долг; стабильно (consistently) растущие показатели без заданного окна",
+     "compound": true
+    },
+    {
+     "id": "C298",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C299",
+     "cat": "B",
+     "predicate": "агрегация по группе альтернативных активов (P2P, золото, PE) не более 5%",
+     "compound": false
+    },
+    {
+     "id": "C300",
+     "cat": "B",
+     "predicate": "рыночная производная метрика: доходность трежерис не ниже 2x earnings yield акций",
+     "compound": false
+    },
+    {
+     "id": "C301",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C302",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C303",
+     "cat": "B",
+     "predicate": "рыночные данные: цена базового актива выше 10 долларов",
+     "compound": false
+    },
+    {
+     "id": "C304",
+     "cat": "B",
+     "predicate": "метрики опциона: дельта в диапазоне -0.20...-0.30 и тип экспирации (только месячная)",
+     "compound": true
+    },
+    {
+     "id": "C305",
+     "cat": "B",
+     "predicate": "срок до экспирации 21-60 дней",
+     "compound": false
+    },
+    {
+     "id": "C306",
+     "cat": "B",
+     "predicate": "производная метрика сделки: годовая доходность выше 20%",
+     "compound": false
+    },
+    {
+     "id": "C307",
+     "cat": "C",
+     "concept": "другие запланированные новости (other news)",
+     "compound": false
+    },
+    {
+     "id": "C308",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C309",
+     "cat": "B",
+     "predicate": "лимит числа сделок в торговой сессии (премаркет) за день",
+     "compound": false
+    },
+    {
+     "id": "C310",
+     "cat": "A",
+     "field": "F11",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C311",
+     "cat": "B",
+     "predicate": "соотношение цель/риск по заявке (тейк и стоп) не менее 2:1",
+     "compound": false
+    },
+    {
+     "id": "C312",
+     "cat": "B",
+     "predicate": "лимит убытка за день, после него остановка торговли",
+     "compound": false
+    },
+    {
+     "id": "C313",
+     "cat": "B",
+     "predicate": "условие на результаты сделок: после 3 убыточных сделок по бумаге запрет её до конца дня",
+     "compound": false
+    },
+    {
+     "id": "C314",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C315",
+     "cat": "B",
+     "predicate": "производная метрика: XIRR позиции не менее 24%",
+     "compound": false
+    },
+    {
+     "id": "C316",
+     "cat": "B",
+     "predicate": "состояние портфеля: покрытие проданного колла базовым активом или длинным коллом",
+     "compound": false
+    },
+    {
+     "id": "C317",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C318",
+     "cat": "B",
+     "predicate": "риск на сделку по стопу не более 1% портфеля",
+     "compound": false
+    },
+    {
+     "id": "C319",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C320",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C321",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C322",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C323",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C324",
+     "cat": "B",
+     "predicate": "агрегация по заданным инвестором классам активов (подклассы), диапазон 5-30% на класс",
+     "compound": false
+    },
+    {
+     "id": "C325",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C326",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C327",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C328",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C329",
+     "cat": "A",
+     "field": "F6",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C330",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C331",
+     "cat": "B",
+     "predicate": "состояние портфеля: опционы только продажа покрытых коллов, покупка опционов запрещена",
+     "compound": false
+    },
+    {
+     "id": "C332",
+     "cat": "B",
+     "predicate": "состояние портфеля: страйк проданного колла выше цены входа в базовый актив",
+     "compound": false
+    },
+    {
+     "id": "C333",
+     "cat": "C",
+     "concept": "широкий ров (wide moat)",
+     "compound": false
+    },
+    {
+     "id": "C334",
+     "cat": "B",
+     "predicate": "производная метрика: PEG не выше 1",
+     "compound": false
+    },
+    {
+     "id": "C335",
+     "cat": "B",
+     "predicate": "целевая эффективная экспозиция с учётом плеча (look-through): 250% акции / 150% трежерис",
+     "compound": false
+    },
+    {
+     "id": "C336",
+     "cat": "C",
+     "concept": "негативный моментум / формирование базы / резкий провал",
+     "compound": true
+    },
+    {
+     "id": "C337",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C338",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C339",
+     "cat": "B",
+     "predicate": "межсчётная агрегация: доля маржинального счёта не более 10% совокупного портфеля",
+     "compound": false
+    },
+    {
+     "id": "C340",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C341",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C342",
+     "cat": "D",
+     "compound": false
+    }
+   ],
+   "p2": [
+    {
+     "id": "C271",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C272",
+     "cat": "A",
+     "field": "F12",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C273",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C274",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C275",
+     "cat": "A",
+     "field": "F5",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C276",
+     "cat": "B",
+     "predicate": "агрегация по эмитенту: суммарная доля всех выпусков эмитента не более 15%",
+     "compound": false
+    },
+    {
+     "id": "C277",
+     "cat": "A",
+     "field": "F13",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C278",
+     "cat": "B",
+     "predicate": "кредитный рейтинг агентств плюс доля портфеля: не менее 90% в бумагах с рейтингом не ниже A-",
+     "compound": false
+    },
+    {
+     "id": "C279",
+     "cat": "B",
+     "predicate": "состояние портфеля: доля валютных активов не выше текущего уровня (лимит доли по валюте)",
+     "compound": false
+    },
+    {
+     "id": "C280",
+     "cat": "A",
+     "field": "F4",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C281",
+     "cat": "B",
+     "predicate": "условие по рыночному режиму (волатильность): допустимая доля инструмента зависит от режима",
+     "compound": false
+    },
+    {
+     "id": "C282",
+     "cat": "B",
+     "predicate": "условие по рыночному режиму (волатильность): допустимая доля инструмента зависит от режима",
+     "compound": false
+    },
+    {
+     "id": "C283",
+     "cat": "B",
+     "predicate": "целевые доли группы инструментов (валютный блок) и конкретного фонда (LQDT)",
+     "compound": true
+    },
+    {
+     "id": "C284",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C285",
+     "cat": "B",
+     "predicate": "состояние портфеля: совокупный риск открытых позиций по стопам выше 6% запрещает новые позиции",
+     "compound": false
+    },
+    {
+     "id": "C286",
+     "cat": "B",
+     "predicate": "лимит убытка за месяц: при исчерпании запрет торговли до конца месяца",
+     "compound": false
+    },
+    {
+     "id": "C287",
+     "cat": "B",
+     "predicate": "риск на сделку по стопу не более 2% и совокупный не более 6% от капитала на начало месяца",
+     "compound": true
+    },
+    {
+     "id": "C288",
+     "cat": "B",
+     "predicate": "состояние портфеля: просадка счёта не более 10%",
+     "compound": false
+    },
+    {
+     "id": "C289",
+     "cat": "A",
+     "field": "F4,F5",
+     "approx": true,
+     "compound": true
+    },
+    {
+     "id": "C290",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C291",
+     "cat": "C",
+     "concept": "чрезмерная маржа (excessive margins)",
+     "compound": true
+    },
+    {
+     "id": "C292",
+     "cat": "C",
+     "concept": "пенни-стоки (penny stocks)",
+     "compound": true
+    },
+    {
+     "id": "C293",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C294",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C295",
+     "cat": "E",
+     "compound": true
+    },
+    {
+     "id": "C296",
+     "cat": "C",
+     "concept": "сильная переоценённость всех рынков (vastly overvalued)",
+     "compound": false
+    },
+    {
+     "id": "C297",
+     "cat": "C",
+     "concept": "низкий долг (low debt); стабильность показателей (consistently)",
+     "compound": true
+    },
+    {
+     "id": "C298",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C299",
+     "cat": "B",
+     "predicate": "агрегация по группе: доля альтернативных активов не более 5%, включая активы вне брокерского счёта",
+     "compound": false
+    },
+    {
+     "id": "C300",
+     "cat": "B",
+     "predicate": "рыночные производные метрики: доходность трежерис не менее 2x earnings yield акций как условие покупки облигаций",
+     "compound": false
+    },
+    {
+     "id": "C301",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C302",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C303",
+     "cat": "B",
+     "predicate": "порог цены базовой акции выше 10 долларов",
+     "compound": false
+    },
+    {
+     "id": "C304",
+     "cat": "B",
+     "predicate": "опционные метрики: дельта от -0.20 до -0.30; только месячные экспирации",
+     "compound": true
+    },
+    {
+     "id": "C305",
+     "cat": "B",
+     "predicate": "срок до экспирации от 21 до 60 дней",
+     "compound": false
+    },
+    {
+     "id": "C306",
+     "cat": "B",
+     "predicate": "производная метрика сделки: годовая доходность выше 20%",
+     "compound": false
+    },
+    {
+     "id": "C307",
+     "cat": "B",
+     "predicate": "событийный календарь: нет отчётности и запланированных событий до экспирации",
+     "compound": false
+    },
+    {
+     "id": "C308",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C309",
+     "cat": "B",
+     "predicate": "окно торговой сессии: не более 1 сделки в премаркет",
+     "compound": false
+    },
+    {
+     "id": "C310",
+     "cat": "A",
+     "field": "F11",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C311",
+     "cat": "B",
+     "predicate": "соотношение цель/риск не менее 2:1 по стопу и цели заявки",
+     "compound": false
+    },
+    {
+     "id": "C312",
+     "cat": "B",
+     "predicate": "дневной лимит убытка 150 долларов: при превышении запрет торговли",
+     "compound": false
+    },
+    {
+     "id": "C313",
+     "cat": "B",
+     "predicate": "история сделок за день: после 3 убыточных сделок по бумаге запрет её до конца дня",
+     "compound": false
+    },
+    {
+     "id": "C314",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C315",
+     "cat": "B",
+     "predicate": "производная метрика: XIRR позиции не менее 24%",
+     "compound": false
+    },
+    {
+     "id": "C316",
+     "cat": "B",
+     "predicate": "условие на портфель: продажа колла только при покрытии базовым активом или купленным коллом",
+     "compound": false
+    },
+    {
+     "id": "C317",
+     "cat": "E",
+     "compound": false
+    },
+    {
+     "id": "C318",
+     "cat": "B",
+     "predicate": "риск на сделку (размер x расстояние до стопа) не более 1% портфеля",
+     "compound": false
+    },
+    {
+     "id": "C319",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C320",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C321",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C322",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C323",
+     "cat": "A",
+     "field": "F15",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C324",
+     "cat": "B",
+     "predicate": "пользовательские классы активов: доля каждого в диапазоне 5-30% (агрегация по группе, нижняя граница)",
+     "compound": false
+    },
+    {
+     "id": "C325",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C326",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C327",
+     "cat": "B",
+     "predicate": "окно времени: 3 месяца ожидания перед изменением долей или списка фондов",
+     "compound": false
+    },
+    {
+     "id": "C328",
+     "cat": "A",
+     "field": "F6",
+     "approx": false,
+     "compound": false
+    },
+    {
+     "id": "C329",
+     "cat": "A",
+     "field": "F6",
+     "approx": true,
+     "compound": false
+    },
+    {
+     "id": "C330",
+     "cat": "D",
+     "compound": true
+    },
+    {
+     "id": "C331",
+     "cat": "B",
+     "predicate": "опционы: только продажа покрытых коллов (условие на наличие базового актива), без покупки",
+     "compound": false
+    },
+    {
+     "id": "C332",
+     "cat": "B",
+     "predicate": "состояние позиции: страйк проданного колла выше средней цены покупки",
+     "compound": false
+    },
+    {
+     "id": "C333",
+     "cat": "C",
+     "concept": "широкий ров (wide moat)",
+     "compound": false
+    },
+    {
+     "id": "C334",
+     "cat": "B",
+     "predicate": "производная метрика: PEG не выше 1",
+     "compound": false
+    },
+    {
+     "id": "C335",
+     "cat": "B",
+     "predicate": "целевая экспозиция с учётом плеча: 250% акции / 150% трежерис",
+     "compound": false
+    },
+    {
+     "id": "C336",
+     "cat": "C",
+     "concept": "негативный моментум, новая база, резкий провал (negative momentum, base, sudden dip)",
+     "compound": true
+    },
+    {
+     "id": "C337",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C338",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C339",
+     "cat": "B",
+     "predicate": "межсчётная агрегация: доля счёта с плечом не более 10% совокупного портфеля",
+     "compound": false
+    },
+    {
+     "id": "C340",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C341",
+     "cat": "D",
+     "compound": false
+    },
+    {
+     "id": "C342",
+     "cat": "D",
+     "compound": false
+    }
+   ],
+   "adj": [
+    {
+     "id": "C280",
+     "cat": "B",
+     "predicate": "лимит доли одной позиции только для фьючерсов (условие по типу инструмента, доля по номинальной экспозиции)",
+     "reason": "Лимит только для фьючерсов (условие по типу, доля по экспозиции); F4 общий для всех бумаг: F4=50% заблокирует LQDT 95% — смысл искажается."
+    },
+    {
+     "id": "C307",
+     "cat": "C",
+     "concept": "прочие запланированные новости (other news) до экспирации",
+     "reason": "Отчётность до экспирации — B (календарь событий), но «other news» без операц. определения: макро (FOMC/CPI), дивиденды, дни инвестора. Compound."
+    },
+    {
+     "id": "C317",
+     "cat": "D",
+     "reason": "Ведение журнала — процесс/дисциплина трейдера вне заявок (как «изучаю отчётность»); E — обязанности, порождающие операции по счёту (стоп, ребаланс)."
+    },
+    {
+     "id": "C327",
+     "cat": "B",
+     "predicate": "окно времени > дня: изменения целевых долей (F15) и списка фондов (F2) вступают в силу только через 3 месяца ожидания",
+     "reason": "Чёткий запрет с параметром: правки долей (F15) и списка фондов (F2) вступают в силу через 3 мес; заявки сверяются с действующей версией — окно > дня."
+    }
+   ]
+  }
+ ]
+}

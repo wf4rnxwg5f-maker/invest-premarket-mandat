@@ -1,0 +1,402 @@
+[
+ {
+  "ticker": "ABIO",
+  "name": "iАРТГЕН ао",
+  "listing_level": 2,
+  "median_turnover_mln_rub": 11.9,
+  "cap_bln_rub": 4.5,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "APTK",
+  "name": "Аптеки36и6",
+  "listing_level": 2,
+  "median_turnover_mln_rub": 6.7,
+  "cap_bln_rub": 52.0,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "BANE",
+  "name": "Башнефт ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 28.7,
+  "cap_bln_rub": 195.4,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "BANEP",
+  "name": "Башнефт ап",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 97.6,
+  "cap_bln_rub": 23.9,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "DELI",
+  "name": "iКаршеринг",
+  "listing_level": 2,
+  "median_turnover_mln_rub": 8.7,
+  "cap_bln_rub": 7.8,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "ELFV",
+  "name": "ЭЛ5Энер ао",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 7.1,
+  "cap_bln_rub": 23.9,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "EUTR",
+  "name": "ЕвроТранс",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 27.6,
+  "cap_bln_rub": 2.4,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "FESH",
+  "name": "ДВМП ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 162.6,
+  "cap_bln_rub": 219.0,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "HNFG",
+  "name": "ХЭНДЕРСОН",
+  "listing_level": 2,
+  "median_turnover_mln_rub": 6.3,
+  "cap_bln_rub": 11.8,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "IRKT",
+  "name": "Яковлев-3",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 49.1,
+  "cap_bln_rub": 247.3,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "IVAT",
+  "name": "iИВА",
+  "listing_level": 2,
+  "median_turnover_mln_rub": 54.2,
+  "cap_bln_rub": 6.9,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "KMAZ",
+  "name": "КАМАЗ",
+  "listing_level": 2,
+  "median_turnover_mln_rub": 20.8,
+  "cap_bln_rub": 45.5,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "LEAS",
+  "name": "Европлан",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 5.7,
+  "cap_bln_rub": 80.4,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "LENT",
+  "name": "Лента ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 69.7,
+  "cap_bln_rub": 223.5,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "LSNGP",
+  "name": "РСетиЛЭ-п",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 61.4,
+  "cap_bln_rub": 32.8,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "MGKL",
+  "name": "МГКЛ",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 94.5,
+  "cap_bln_rub": 0.6,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "MGNT",
+  "name": "Магнит ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 1025.9,
+  "cap_bln_rub": 204.6,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "MVID",
+  "name": "М.видео",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 26.1,
+  "cap_bln_rub": 9.5,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "NKHP",
+  "name": "НКХП ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 20.0,
+  "cap_bln_rub": 28.1,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "NKNCP",
+  "name": "НКНХ ап",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 12.8,
+  "cap_bln_rub": 9.6,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "NMTP",
+  "name": "НМТП ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 81.3,
+  "cap_bln_rub": 135.2,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "PIKK",
+  "name": "ПИК ао",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 0.0,
+  "cap_bln_rub": 359.3,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "ROLO",
+  "name": "Русолово",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 29.3,
+  "cap_bln_rub": 11.1,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "SIBN",
+  "name": "Газпрнефть",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 664.0,
+  "cap_bln_rub": 2519.8,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "SPBE",
+  "name": "СПБ Биржа",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 888.1,
+  "cap_bln_rub": 24.2,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "TGKN",
+  "name": "ТГК-14",
+  "listing_level": 2,
+  "median_turnover_mln_rub": 28.6,
+  "cap_bln_rub": 5.4,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "UKUZ",
+  "name": "ЮжКузб. ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 12.8,
+  "cap_bln_rub": 41.1,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "UNAC",
+  "name": "iАвиастКао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 50.7,
+  "cap_bln_rub": 410.6,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "UWGN",
+  "name": "ОВК ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 69.9,
+  "cap_bln_rub": 72.3,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "ZAYM",
+  "name": "Займер ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 8.8,
+  "cap_bln_rub": 13.3,
+  "in_IMOEX": false,
+  "in_MOEXBMI": true,
+  "zone": "divergent"
+ },
+ {
+  "ticker": "GAZP",
+  "name": "ГАЗПРОМ ао",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 9836.1,
+  "cap_bln_rub": 2758.0,
+  "in_IMOEX": true,
+  "in_MOEXBMI": true,
+  "zone": "control"
+ },
+ {
+  "ticker": "SBER",
+  "name": "Сбербанк",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 6670.4,
+  "cap_bln_rub": 6445.4,
+  "in_IMOEX": true,
+  "in_MOEXBMI": true,
+  "zone": "control"
+ },
+ {
+  "ticker": "LKOH",
+  "name": "ЛУКОЙЛ",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 6235.2,
+  "cap_bln_rub": 4191.1,
+  "in_IMOEX": true,
+  "in_MOEXBMI": true,
+  "zone": "control"
+ },
+ {
+  "ticker": "T",
+  "name": "Т-Техно ао",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 4410.1,
+  "cap_bln_rub": 781.2,
+  "in_IMOEX": true,
+  "in_MOEXBMI": true,
+  "zone": "control"
+ },
+ {
+  "ticker": "VKCO",
+  "name": "iМКПАО ВК",
+  "listing_level": 1,
+  "median_turnover_mln_rub": 4181.8,
+  "cap_bln_rub": 136.9,
+  "in_IMOEX": true,
+  "in_MOEXBMI": true,
+  "zone": "control"
+ },
+ {
+  "ticker": "GAZT",
+  "name": "ГАЗ-Тек ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 0.0,
+  "cap_bln_rub": 819.8,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "control"
+ },
+ {
+  "ticker": "GAZC",
+  "name": "ГАЗКОН-ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 0.0,
+  "cap_bln_rub": 148.5,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "control"
+ },
+ {
+  "ticker": "AMEZ",
+  "name": "АшинскийМЗ",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 0.0,
+  "cap_bln_rub": 26.5,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "control"
+ },
+ {
+  "ticker": "GAZS",
+  "name": "ГАЗ-сервис",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 0.0,
+  "cap_bln_rub": 173.3,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "control"
+ },
+ {
+  "ticker": "MGNZ",
+  "name": "СМЗ-ао",
+  "listing_level": 3,
+  "median_turnover_mln_rub": 0.0,
+  "cap_bln_rub": 3.0,
+  "in_IMOEX": false,
+  "in_MOEXBMI": false,
+  "zone": "control"
+ }
+]

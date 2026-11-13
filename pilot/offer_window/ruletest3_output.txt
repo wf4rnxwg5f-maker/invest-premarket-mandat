@@ -1,0 +1,10 @@
+===== y25 filled: 299 | two-rule baseline end-date accuracy: 252 (84.3%)
+   B структурные: 47/48 (97.9%)
+   E целевой: 205/215 (95.3%)
+   C/D прочие (по соглашению, цена != 100, нет купона рядом): 0/36 (0.0%)
+   structured: working days from window end to offerdate: [(2, 47), (1, 1)]
+===== fwd filled: 165 | two-rule baseline end-date accuracy: 148 (89.7%)
+   E целевой: 98/101 (97.0%)
+   C/D прочие (по соглашению, цена != 100, нет купона рядом): 0/11 (0.0%)
+   B структурные: 50/53 (94.3%)
+   structured: working days from window end to offerdate: [(2, 50), (1, 2), (3, 1)]

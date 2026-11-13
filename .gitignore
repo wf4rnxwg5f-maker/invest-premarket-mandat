@@ -1,0 +1,13 @@
+# черновики и рецензии — не для публикации
+drafts/
+review/
+__pycache__/
+*.pyc
+# дословные цитаты из чужих публикаций в публичный репозиторий не кладём:
+# вместо них — копии без цитат (raw_public.json, mandates_public/), статистика по ним воспроизводится
+pilot/coverage/raw.json
+pilot/p3/mandates/
+# сырые данные MOEX ISS не распространяем (условия биржи: только для ознакомления) — их скачивают скрипты
+pilot/data/*.json
+pilot/offer_window/*.json
+pilot/offer_window/cpn/
